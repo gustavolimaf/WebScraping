@@ -7,12 +7,13 @@ from playwright.async_api import async_playwright, Page, TimeoutError as PWTimeo
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# ──────────────────────────────────────────────────────────────
-# Configuração
-# ──────────────────────────────────────────────────────────────
+# ------------------------------------------------------------------
+# Configuração do scraper
+# Valores abaixo controlam o comportamento de requisições e saída
+# ------------------------------------------------------------------
 BASE_URL   = "https://www.fichacompleta.com.br"
-DELAY_MIN  = 1500   # ms de pausa humana
-DELAY_MAX  = 3500
+DELAY_MIN  = 1500   # pausa humana mínima em milissegundos
+DELAY_MAX  = 3500   # pausa humana máxima em milissegundos
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -27,9 +28,10 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 
-# ──────────────────────────────────────────────────────────────
-# Utilitários
-# ──────────────────────────────────────────────────────────────
+# ------------------------------------------------------------------
+# Utilitários e funções auxiliares
+# Funções de apoio usadas por diferentes partes do scraper
+# ------------------------------------------------------------------
 def slugify(texto: str) -> str:
     subs = {
         "á":"a","à":"a","ã":"a","â":"a","ä":"a",
@@ -47,9 +49,10 @@ def slugify(texto: str) -> str:
     return re.sub(r"_+", "_", texto).strip("_")
 
 
-# ──────────────────────────────────────────────────────────────
-# Browser
-# ──────────────────────────────────────────────────────────────
+# ------------------------------------------------------------------
+# Inicialização e helpers do browser (Playwright)
+# Cria contexto de browser e funções de navegação com retry/timeouts
+# ------------------------------------------------------------------
 async def criar_contexto(playwright):
     browser = await playwright.chromium.launch(
         headless=True,
@@ -78,7 +81,11 @@ async def criar_contexto(playwright):
 
 
 async def get_html_aguardando(page: Page, url: str, seletor: str, tentativas: int = 3) -> str | None:
-    """Navega e aguarda seletor CSS aparecer (conteúdo JS renderizado)."""
+    """Navega até `url` e aguarda que um seletor CSS esteja presente.
+
+    Usa timeouts e tentativas para robustez contra falhas intermitentes.
+    Retorna o HTML da página ou `None` em caso de falha após `tentativas`.
+    """
     for t in range(1, tentativas + 1):
         try:
             await page.goto(url, wait_until="domcontentloaded", timeout=30_000)
@@ -95,7 +102,11 @@ async def get_html_aguardando(page: Page, url: str, seletor: str, tentativas: in
 
 
 async def get_html_simples(page: Page, url: str, tentativas: int = 3) -> str | None:
-    """Navega e aguarda networkidle — para páginas sem seletor crítico."""
+    """Navega até `url` e aguarda que a rede esteja ociosa.
+
+    Indicado para páginas em que não há um seletor crítico a esperar.
+    Retorna o HTML ou `None` se não for possível carregar a página.
+    """
     for t in range(1, tentativas + 1):
         try:
             await page.goto(url, wait_until="domcontentloaded", timeout=30_000)
@@ -111,9 +122,10 @@ async def get_html_simples(page: Page, url: str, tentativas: int = 3) -> str | N
     return None
 
 
-# ──────────────────────────────────────────────────────────────
-# Nível 1 — modelos da marca
-# ──────────────────────────────────────────────────────────────
+# ------------------------------------------------------------------
+# Nível 1 — listar modelos de uma marca
+# Extrai a lista de modelos disponíveis para a marca informada
+# ------------------------------------------------------------------
 async def listar_modelos(page: Page, marca: str) -> list[dict]:
     url = f"{BASE_URL}/carros/{marca}/"
     log.info(f"[Nível 1] Modelos: {url}")
@@ -137,11 +149,10 @@ async def listar_modelos(page: Page, marca: str) -> list[dict]:
     return modelos
 
 
-# ──────────────────────────────────────────────────────────────
-# Nível 2 — versões de um modelo
-# Extrai slugs de:  <input rel="seal-ev-2024" class="versaoComp ver-card_check">
-# Fallback para:    <a href="/carros/byd/seal-ev-2024" class="ver-card_link">
-# ──────────────────────────────────────────────────────────────
+# ------------------------------------------------------------------
+# Nível 2 — listar versões de um modelo
+# Tenta extrair slugs via inputs (mais confiável) e faz fallback para links
+# ------------------------------------------------------------------
 async def listar_versoes(page: Page, modelo: dict) -> list[dict]:
     log.info(f"  [Nível 2] Versões: {modelo['nome']}")
 
@@ -196,9 +207,10 @@ async def listar_versoes(page: Page, modelo: dict) -> list[dict]:
     return versoes
 
 
-# ──────────────────────────────────────────────────────────────
-# Nível 3 — ficha técnica de uma versão
-# ──────────────────────────────────────────────────────────────
+# ------------------------------------------------------------------
+# Nível 3 — extrair ficha técnica (detalhes) de uma versão
+# Analisa blocos da página e converte labels em chaves 'categoria__campo'
+# ------------------------------------------------------------------
 async def extrair_ficha(page: Page, versao: dict) -> dict:
     log.info(f"    [Nível 3] Ficha: {versao.get('versao_slug', '')}")
 
@@ -240,9 +252,10 @@ async def extrair_ficha(page: Page, versao: dict) -> dict:
     return dados
 
 
-# ──────────────────────────────────────────────────────────────
-# Orquestrador
-# ──────────────────────────────────────────────────────────────
+# ------------------------------------------------------------------
+# Orquestração das etapas de scraping
+# Combina as funções de navegação, listagem e extração para coletar dados
+# ------------------------------------------------------------------
 async def raspar_marca(marca: str, dry_run: bool = False) -> list[dict]:
     async with async_playwright() as pw:
         browser, context = await criar_contexto(pw)
@@ -302,9 +315,10 @@ async def raspar_url_unica(url: str) -> list[dict]:
             await browser.close()
 
 
-# ──────────────────────────────────────────────────────────────
-# Persistência
-# ──────────────────────────────────────────────────────────────
+# ------------------------------------------------------------------
+# Persistência dos resultados
+# Serializa para JSON e CSV na pasta `output/` com timestamp
+# ------------------------------------------------------------------
 def salvar(fichas: list[dict], prefixo: str = "fichas"):
     if not fichas:
         log.warning("Nenhum dado para salvar.")
@@ -328,9 +342,10 @@ def salvar(fichas: list[dict], prefixo: str = "fichas"):
     log.info(f"{'═'*55}")
 
 
-# ──────────────────────────────────────────────────────────────
-# CLI
-# ──────────────────────────────────────────────────────────────
+# ------------------------------------------------------------------
+# Interface de linha de comando (entrypoint)
+# Define argumentos e dispara as rotinas principais
+# ------------------------------------------------------------------
 def main():
     parser = argparse.ArgumentParser(description="Scraper fichacompleta.com.br")
     parser.add_argument("--marca",   default="byd",  help="Slug da marca (ex: byd, toyota)")
