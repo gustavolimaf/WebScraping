@@ -2,6 +2,8 @@
 
 Extrai fichas técnicas de veículos do site fichacompleta.com.br e salva em **JSON** e **CSV**.
 
+> Estado atual: este repositório contém uma amostra funcional com veículos BYD. A ideia é expandir o scraper até cobrir o site inteiro.
+
 ---
 
 ## Instalação
@@ -19,7 +21,7 @@ Se estiver usando um ambiente virtual, ative-o antes de instalar as dependência
 
 ## Uso
 
-### 1. Raspar todos os modelos BYD (padrão)
+### 1. Raspar a amostra atual de BYD (padrão)
 ```bash
 python scraper.py
 ```
@@ -93,15 +95,17 @@ Os arquivos são salvos na pasta `output/`:
 
 ---
 
-## Escalando para outras marcas
+## Escalando para o site inteiro
+
+Hoje o código já permite raspar outras marcas individualmente. O próximo passo é ampliar a cobertura até incluir todo o catálogo do site.
 
 ```python
 # No Python, raspe múltiplas marcas sequencialmente:
-from scraper import raspar_marca, salvar_resultados
+from scraper import raspar_marca, salvar
 
 for marca in ["byd", "toyota", "honda"]:
     fichas = raspar_marca(marca)
-    salvar_resultados(fichas, f"fichas_{marca}")
+    salvar(fichas, f"fichas_{marca}")
 ```
 
 ---
@@ -109,5 +113,3 @@ for marca in ["byd", "toyota", "honda"]:
 ## Nota legal
 
 Use este scraper apenas para fins educacionais e de pesquisa.  
-Verifique os Termos de Uso do site antes de raspar em escala.  
-Respeite o `robots.txt`: `https://www.fichacompleta.com.br/robots.txt`
