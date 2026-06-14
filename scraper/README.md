@@ -1,40 +1,40 @@
-# Scraper Modular — Ficha Completa
+# Scraper Modular - Ficha Completa
 
-Estrutura refatorada e modular do web scraper para `fichacompleta.com.br` com separação rigorosa de responsabilidades, tratamento automático de erros OCR e validação de dados.
+Estrutura refatorada e modular do web scraper para `fichacompleta.com.br` com separacao rigorosa de responsabilidades, tratamento automatico de erros OCR e validacao de dados.
 
 ## Estrutura do Projeto
 
 ```
 scraper/
-├── main.py                    ← Entrypoint + CLI (argparse)
+├── main.py                    <- Entrypoint + CLI (argparse)
 ├── scraper/
 │   ├── __init__.py
-│   ├── config.py              ← Configurações, seletores, delays
-│   ├── browser.py             ← Playwright: contexto + navegação
-│   ├── parser.py              ← Extração de HTML → estruturas Python
-│   ├── cleaner.py             ← Limpeza automática + validação
-│   ├── storage.py             ← Salvamento JSON + CSV + relatórios
-│   ├── orchestrator.py        ← Orquestra 3 níveis (marca → modelo → versão)
-│   └── logging_config.py      ← Configuração centralizada de logs
+│   ├── config.py              <- Configuracoes, seletores, delays
+│   ├── browser.py             <- Playwright: contexto + navegacao
+│   ├── parser.py              <- Extracao de HTML -> estruturas Python
+│   ├── cleaner.py             <- Limpeza automatica + validacao
+│   ├── storage.py             <- Salvamento JSON + CSV + relatorios
+│   ├── orchestrator.py        <- Orquestra 3 niveis (marca -> modelo -> versao)
+│   └── logging_config.py      <- Configuracao centralizada de logs
 └── tests/
     ├── __init__.py
-    └── test_parser_cleaner.py ← 17 testes unitários
+    └── test_parser_cleaner.py <- 17 testes unitarios
 ```
 
 ## Uso
 
-### Scrape padrão (apenas BYD)
+### Scrape padrao (apenas BYD)
 ```bash
 cd scraper
 python main.py
 ```
 
-### Scrape de uma marca específica
+### Scrape de uma marca especifica
 ```bash
 python main.py --marca toyota
 ```
 
-### Scrape de múltiplas marcas
+### Scrape de multiplas marcas
 ```bash
 python main.py --marcas byd toyota honda volkswagen
 ```
@@ -44,7 +44,7 @@ python main.py --marcas byd toyota honda volkswagen
 python main.py --todas
 ```
 
-### Scrape de uma versão específica (URL direta)
+### Scrape de uma versao especifica (URL direta)
 ```bash
 python main.py --url "https://www.fichacompleta.com.br/carros/byd/seagull/plus/"
 ```
@@ -55,7 +55,7 @@ python main.py --dry-run
 python main.py --marca toyota --dry-run
 ```
 
-### Executar testes unitários
+### Executar testes unitarios
 ```bash
 python -m pytest tests/ -v
 pytest tests/ -v -k "Parser"   # Apenas testes do parser
@@ -64,77 +64,77 @@ pytest tests/ -v -k "Cleaner"  # Apenas testes do cleaner
 
 ## Funcionalidades
 
-### 1. **Configuração Centralizada** (`config.py`)
+### 1. **Configuracao Centralizada** (`config.py`)
 - **URL base** do site
-- **Delays** entre requisições (milissegundos para parecer humano)
-- **Seletores CSS** para modelos, versões e fichas
-- **Configurações do Playwright** (viewport, user-agent, locale, timezone)
-- **Validações de formato** para campos numéricos com unidade
+- **Delays** entre requisicoes (milissegundos para parecer humano)
+- **Seletores CSS** para modelos, versoes e fichas
+- **Configuracoes do Playwright** (viewport, user-agent, locale, timezone)
+- **Validacoes de formato** para campos numericos com unidade
 
 ### 2. **Browser Automation** (`browser.py`)
 - Cria contexto do Playwright com headers anti-bot
 - `criar_contexto()`: Configura browser com user-agent, locale e timezone
-- `get_html_aguardando()`: Navega e aguarda um seletor CSS específico
-- `get_html_simples()`: Navega e aguarda networkidle (sem seletor crítico)
-- Retry automático com backoff exponencial
+- `get_html_aguardando()`: Navega e aguarda um seletor CSS especifico
+- `get_html_simples()`: Navega e aguarda networkidle (sem seletor critico)
+- Retry automatico com backoff exponencial
 
 ### 3. **Parser** (`parser.py`)
-Extração estruturada de HTML para Python (sem dependência de Playwright):
+Extracao estruturada de HTML para Python (sem dependencia de Playwright):
 
 - `slugify()`: Converte texto em `snake_case` sem acentos
-- `parsear_modelos()`: Extrai lista de modelos (Nível 1)
-- `parsear_versoes()`: Extrai lista de versões (Nível 2)
-- `parsear_ficha()`: Extrai dados estruturados da ficha técnica (Nível 3)
+- `parsear_modelos()`: Extrai lista de modelos (Nivel 1)
+- `parsear_versoes()`: Extrai lista de versoes (Nivel 2)
+- `parsear_ficha()`: Extrai dados estruturados da ficha tecnica (Nivel 3)
 
-**Caraterística:** Funções independentes facilitam testes unitários sem Playwright
+**Caracteristica:** Funcoes independentes facilitam testes unitarios sem Playwright
 
 ### 4. **Cleaner** (`cleaner.py`)
-Limpeza automática e validação inteligente de dados com:
+Limpeza automatica e validacao inteligente de dados com:
 
-**Correções de Erros OCR (regex-based):**
-| Campo | Padrão | Correção |
+**Correcoes de Erros OCR (regex-based):**
+| Campo | Padrao | Correcao |
 |-------|--------|----------|
-| `potencia_maxima` | `\bg(\d+)` | `g8 cv` → `98 cv` |
-| `peso` | `(\d)AT(\d)` | `2AT9 kg` → `2479 kg` |
+| `potencia_maxima` | `\bg(\d+)` | `g8 cv` -> `98 cv` |
+| `peso` | `(\d)AT(\d)` | `2AT9 kg` -> `2479 kg` |
 
-**Normalização:**
-- Valores "Não informado" → removidos (None)
-- Espaçamento normalizado
-- Sinônimos de campos unificados (ex: `vao_livre_do_solo` → `altura_minima_do_solo`)
+**Normalizacao:**
+- Valores "Nao informado" -> removidos (None)
+- Espacamento normalizado
+- Sinonimos de campos unificados (ex: `vao_livre_do_solo` -> `altura_minima_do_solo`)
 
-**Validações de Formato:**
+**Validacoes de Formato:**
 - `peso`: deve casar com `^\d[\d.,]* kg$`
 - `potencia_maxima`: deve casar com `^\d[\d.,]* cv$`
 - `autonomia`: deve casar com `^\d[\d.,]* km$`
 
-**API Pública:**
-- `limpar_ficha(ficha: dict) → dict`: Limpa um registro individual
-- `limpar_fichas(fichas: list[dict]) → list[dict]`: Limpa uma lista
+**API Publica:**
+- `limpar_ficha(ficha: dict) -> dict`: Limpa um registro individual
+- `limpar_fichas(fichas: list[dict]) -> list[dict]`: Limpa uma lista
 
 ### 5. **Storage** (`storage.py`)
-Salvamento flexível dos dados:
+Salvamento flexivel dos dados:
 
-- `salvar()`: Função genérica (detecta formato)
+- `salvar()`: Funcao generica (detecta formato)
 - Salva em **JSON** (indentado, UTF-8, sem BOM)
-- Salva em **CSV** (com pandas, UTF-8, headers automáticos)
-- Geração automática de nomes com timestamp
+- Salva em **CSV** (com pandas, UTF-8, headers automaticos)
+- Geracao automatica de nomes com timestamp
 
 ### 6. **Orchestrator** (`orchestrator.py`)
-Orquestra os **3 níveis de scraping** em sequência:
+Orquestra os **3 niveis de scraping** em sequencia:
 
-1. **Nível 1**: `raspar_marca()` → lista de modelos
-2. **Nível 2**: Para cada modelo → lista de versões
-3. **Nível 3**: Para cada versão → ficha técnica (com limpeza)
+1. **Nivel 1**: `raspar_marca()` -> lista de modelos
+2. **Nivel 2**: Para cada modelo -> lista de versoes
+3. **Nivel 3**: Para cada versao -> ficha tecnica (com limpeza)
 
-**Funções principales:**
+**Funcoes principales:**
 - `raspar_marca(marca: str, dry_run=False)`: Raspa uma marca completa
-- `raspar_url_unica(url: str)`: Raspa uma versão específica
+- `raspar_url_unica(url: str)`: Raspa uma versao especifica
 - Suporta modo `dry_run` para visualizar URLs sem raspar
 
 ### 7. **Logging Centralizado** (`logging_config.py`)
-- Função `configurar_logging()`
-- Saída simultânea em **console** (colorido) e **arquivo**
-- Nível INFO por padrão
+- Funcao `configurar_logging()`
+- Saida simultanea em **console** (colorido) e **arquivo**
+- Nivel INFO por padrao
 - Arquivo: `output/scraper.log`
 
 ## Marcas Suportadas
@@ -166,19 +166,19 @@ python main.py --todas
 Se encontrar novos erros OCR durante o scraping:
 
 1. Abra `scraper/cleaner.py`
-2. Localize a seção `CORRECOES_VALOR`
-3. Adicione uma nova regra (campo, padrão regex, substituto):
+2. Localize a secao `CORRECOES_VALOR`
+3. Adicione uma nova regra (campo, padrao regex, substituto):
 
 ```python
 CORRECOES_VALOR: list[tuple[str, str, str]] = [
     (r"geral__potencia_maxima", r"\bg(\d+)\b", r"9\1"),    # Existente
     (r"geral__peso", r"\b(\d)AT(\d)\b", r"\g<1>47\2"),    # Existente
     # Adicione aqui:
-    (r"seu_campo", r"seu_padrão_regex", r"sua_substituição"),
+    (r"seu_campo", r"seu_padrao_regex", r"sua_substituicao"),
 ]
 ```
 
-## Testes Unitários
+## Testes Unitarios
 
 **17 testes em `tests/test_parser_cleaner.py`:**
 
@@ -194,15 +194,15 @@ pytest tests/ -v -k "normalizar or remapear or limpar"
 ```
 
 **Cobertura:**
-- Normalização de valores
-- Remapeamento de sinônimos
+- Normalizacao de valores
+- Remapeamento de sinonimos
 - Limpeza de fichas
-- Extração de HTML
-- Casos extremos (valores vazios, inválidos, etc)
+- Extracao de HTML
+- Casos extremos (valores vazios, invalidos, etc)
 
 ## Estrutura de Output
 
-Após raspar, encontre em `output/`:
+Apos raspar, encontre em `output/`:
 ```
 output/
 ├── fichas_byd_20260614_145248.json
@@ -213,7 +213,7 @@ output/
 
 **JSON:** Array de registros completos com metadados + ficha
 **CSV:** Flat com colunas (marca, modelo, versao, url, geral__peso, geral__potencia_maxima, etc)
-**Relatório:** Estatísticas (total, com_ficha, incompleta, cobertura)
+**Relatorio:** Estatisticas (total, com_ficha, incompleta, cobertura)
 
 ## Estrutura de um Registro
 
@@ -237,11 +237,11 @@ output/
 
 Para estender ou customizar:
 
-1. **Novo erro OCR**: Adicione regex em `cleaner.py` → `CORRECOES_VALOR`
-2. **Novo sinônimo**: Adicione em `cleaner.py` → `CAMPOS_SINONIMOS`
-3. **Novo validação**: Adicione em `cleaner.py` → `VALIDACOES`
+1. **Novo erro OCR**: Adicione regex em `cleaner.py` -> `CORRECOES_VALOR`
+2. **Novo sinonimo**: Adicione em `cleaner.py` -> `CAMPOS_SINONIMOS`
+3. **Novo validacao**: Adicione em `cleaner.py` -> `VALIDACOES`
 4. **Novo seletor CSS**: Atualize em `config.py` (SEL_*)
-5. **Teste unitário**: Adicione em `tests/test_parser_cleaner.py`
+5. **Teste unitario**: Adicione em `tests/test_parser_cleaner.py`
 
 ## Requirements
 
@@ -260,7 +260,7 @@ pip install -r requirements.txt
 playwright install chromium
 ```
 
-## Licença
+## Licenca
 
-Uso pessoal/educacional. Respeite `robots.txt` e termos de serviço do site.
+Uso pessoal/educacional. Respeite `robots.txt` e termos de servico do site.
 
