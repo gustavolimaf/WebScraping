@@ -1,8 +1,8 @@
 """
-parser.py — Extração de dados do HTML.
+parser.py -- Extracao de dados do HTML.
 
-Cada função recebe um BeautifulSoup e retorna dados estruturados,
-sem nenhuma dependência de Playwright (facilita testes unitários).
+Cada funcao recebe um BeautifulSoup e retorna dados estruturados,
+sem nenhuma dependencia de Playwright (facilita testes unitarios).
 """
 
 import logging
@@ -16,7 +16,7 @@ from .config import BASE_URL, SEL_MODELOS, SEL_VERSOES, SEL_FICHA
 log = logging.getLogger(__name__)
 
 
-# ── Utilitários ───────────────────────────────────────────────────────────────
+# -- Utilitarios
 
 def slugify(texto: str) -> str:
     """Converte texto em snake_case sem acentos."""
@@ -36,7 +36,7 @@ def slugify(texto: str) -> str:
     return re.sub(r"_+", "_", texto).strip("_")
 
 
-# ── Nível 1: modelos ──────────────────────────────────────────────────────────
+# -- Nivel 1: modelos
 
 def parsear_modelos(html: str, marca: str) -> list[dict]:
     """
@@ -57,20 +57,20 @@ def parsear_modelos(html: str, marca: str) -> list[dict]:
             "slug":  slug,
             "url":   urljoin(BASE_URL, href),
         })
-    log.info(f"  → {len(modelos)} modelos")
+    log.info(f"  -> {len(modelos)} modelos")
     return modelos
 
 
-# ── Nível 2: versões ──────────────────────────────────────────────────────────
+# -- Nivel 2: versoes
 
 def parsear_versoes(html: str, modelo: dict) -> list[dict]:
     """
-    Extrai versões da página do modelo.
+    Extrai versoes da pagina do modelo.
 
-    Estratégia A (principal): input[rel] — slug disponível diretamente no atributo,
+    Estrategia A (principal): input[rel] - slug disponivel diretamente no atributo,
     independente de AJAX ou link renderizado.
 
-    Estratégia B (fallback): a.ver-card_link — usado se strategy A não retornar nada.
+    Estrategia B (fallback): a.ver-card_link - usado se strategy A nao retornar nada.
     """
     soup = BeautifulSoup(html, "lxml")
     versoes = []
@@ -97,7 +97,7 @@ def parsear_versoes(html: str, modelo: dict) -> list[dict]:
             vistos.add(slug_v)
             versoes.append(_montar_versao(modelo, slug_v, a.get_text(" ", strip=True) or slug_v, href))
 
-    log.info(f"    → {len(versoes)} versões")
+    log.info(f"    -> {len(versoes)} versoes")
     return versoes
 
 
@@ -113,7 +113,7 @@ def _montar_versao(modelo: dict, slug_v: str, nome_v: str, href: str = None) -> 
     }
 
 
-# ── Nível 3: ficha técnica ───────────────────────────────────────────────────
+# -- Nivel 3: ficha tecnica
 
 def parsear_ficha(html: str, versao: dict) -> dict:
     """

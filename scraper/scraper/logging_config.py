@@ -1,5 +1,5 @@
 """
-logging_config.py — Configuração centralizada de logging.
+logging_config.py -- Configuracao centralizada de logging.
 """
 
 import logging
@@ -9,7 +9,7 @@ from .config import OUTPUT_DIR
 def configurar_logging() -> None:
     """
     Configura log para console e arquivo.
-    mode="w" garante que o arquivo começa limpo a cada execução.
+    mode="w" garante que o arquivo comeca limpo a cada execucao.
     """
     logging.basicConfig(
         level=logging.INFO,

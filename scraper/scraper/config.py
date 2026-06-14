@@ -5,18 +5,18 @@ Altere aqui para ajustar delays, diretórios e URLs base.
 
 from pathlib import Path
 
-# ── URL base ──────────────────────────────────────────────────
+# -- URL base
 BASE_URL = "https://www.fichacompleta.com.br"
 
-# ── Delays entre requisições (ms) ────────────────────────────
+# -- Delays entre requisicoes (ms)
 DELAY_MIN = 1500
 DELAY_MAX = 3500
 
-# ── Diretório de saída ────────────────────────────────────────
+# -- Diretorio de saida
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-# ── Playwright ────────────────────────────────────────────────
+# -- Playwright
 BROWSER_VIEWPORT   = {"width": 1366, "height": 768}
 BROWSER_USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -26,7 +26,7 @@ BROWSER_USER_AGENT = (
 BROWSER_LOCALE      = "pt-BR"
 BROWSER_TIMEZONE    = "America/Sao_Paulo"
 
-# ── Seletores CSS ─────────────────────────────────────────────
+# -- Seletores CSS
 SEL_MODELOS  = "div.mod-grid a.mod-card"
 SEL_VERSOES  = "input.versaoComp[rel]"
 SEL_FICHA    = "div.ent-ficha-group"

@@ -1,5 +1,5 @@
 """
-tests/test_parser_cleaner.py — Testes unitários para parser e cleaner.
+tests/test_parser_cleaner.py -- Testes unitarios para parser e cleaner.
 Execute com: python -m pytest tests/ -v
 """
 
@@ -9,22 +9,22 @@ sys.path.insert(0, str(__import__('pathlib').Path(__file__).parent.parent))
 from scraper.parser  import slugify, parsear_modelos, parsear_versoes, parsear_ficha
 from scraper.cleaner import limpar_ficha
 
-# ── slugify ───────────────────────────────────────────────────────────────────
+# -- slugify
 
 def test_slugify_basico():
-    assert slugify("Motores elétricos") == "motores_eletricos"
+    assert slugify("Motores eletricos") == "motores_eletricos"
 
 def test_slugify_parenteses_e_barras():
     assert slugify("0 a 100 km/h") == "0_a_100_kmh"
 
 def test_slugify_acentos():
-    assert slugify("Potência (CV)") == "potencia_cv"
+    assert slugify("Potencia (CV)") == "potencia_cv"
 
 def test_slugify_underscores_duplos():
     assert slugify("peso  bruto") == "peso_bruto"
 
 
-# ── parsear_modelos ───────────────────────────────────────────────────────────
+# -- parsear_modelos
 
 HTML_MODELOS = """
 <div class='mod-grid'>
@@ -46,7 +46,7 @@ def test_parsear_modelos_campos():
     assert "fichacompleta.com.br/carros/byd/seal" in seal["url"]
 
 
-# ── parsear_versoes ───────────────────────────────────────────────────────────
+# -- parsear_versoes
 
 HTML_VERSOES = """
 <div class='ver-list'>
@@ -78,7 +78,7 @@ def test_parsear_versoes_url():
     assert "seal-ev-2025" in versoes[1]["url"]
 
 
-# ── parsear_ficha ─────────────────────────────────────────────────────────────
+# -- parsear_ficha
 
 HTML_FICHA = """
 <h1>BYD Seal EV 2025</h1>
@@ -129,7 +129,7 @@ def test_parsear_ficha_metadados():
     assert "coletado_em" in ficha
 
 
-# ── cleaner ───────────────────────────────────────────────────────────────────
+# -- cleaner
 
 def test_cleaner_corrige_potencia_ocr():
     ficha = {"versao_slug": "x", "geral__potencia_maxima": "g8 cv"}
@@ -142,7 +142,7 @@ def test_cleaner_corrige_peso_ocr():
     assert limpa["geral__peso"] == "2479 kg"
 
 def test_cleaner_nao_informado_vira_none():
-    ficha = {"versao_slug": "x", "geral__diametro_de_giro": "Não informado"}
+    ficha = {"versao_slug": "x", "geral__diametro_de_giro": "Nao informado"}
     limpa = limpar_ficha(ficha)
     assert limpa["geral__diametro_de_giro"] is None
 

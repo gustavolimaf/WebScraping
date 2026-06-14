@@ -1,9 +1,9 @@
 """
-orchestrator.py — Orquestra os três níveis de scraping.
+orchestrator.py -- Orquestra os tres niveis de scraping.
 
-Nível 1: listar modelos de uma marca
-Nível 2: listar versões de cada modelo
-Nível 3: extrair ficha técnica de cada versão
+Nivel 1: listar modelos de uma marca
+Nivel 2: listar versoes de cada modelo
+Nivel 3: extrair ficha tecnica de cada versao
 """
 
 import logging
@@ -22,22 +22,22 @@ log = logging.getLogger(__name__)
 
 async def raspar_marca(marca: str, dry_run: bool = False) -> list[dict]:
     """
-    Raspa todos os modelos e versões de uma marca.
-    Se `dry_run=True`, apenas lista modelos/versões sem raspar fichas.
+    Raspa todos os modelos e versoes de uma marca.
+    Se `dry_run=True`, apenas lista modelos/versoes sem raspar fichas.
     """
     async with async_playwright() as pw:
         browser, context = await criar_contexto(pw)
         page = await context.new_page()
         try:
-            log.info("Aquecendo sessão na home…")
+            log.info("Aquecendo sessao na home...")
             await get_html_simples(page, BASE_URL)
 
-            # ── Nível 1: modelos ──────────────────────────────
+            # -- Nivel 1: modelos
             url_marca = f"{BASE_URL}/carros/{marca}/"
-            log.info(f"[Nível 1] Modelos: {url_marca}")
+            log.info(f"[Nivel 1] Modelos: {url_marca}")
             html = await get_html_aguardando(page, url_marca, SEL_MODELOS)
             if not html:
-                log.error("Falha ao carregar página da marca.")
+                log.error("Falha ao carregar pagina da marca.")
                 return []
 
             modelos = parsear_modelos(html, marca)
@@ -52,13 +52,13 @@ async def raspar_marca(marca: str, dry_run: bool = False) -> list[dict]:
                     if html_m:
                         versoes = parsear_versoes(html_m, m)
                         for v in versoes:
-                            print(f"    ↳ {v['versao_slug']}")
+                            print(f"    - {v['versao_slug']}")
                 return []
 
-            # ── Níveis 2 e 3: versões e fichas ───────────────
+            # -- Niveis 2 e 3: versoes e fichas --
             todas_fichas = []
             for i, modelo in enumerate(modelos, 1):
-                log.info(f"\n── Modelo {i}/{len(modelos)}: {modelo['nome']} ──")
+                log.info(f"\n-- Modelo {i}/{len(modelos)}: {modelo['nome']} --")
 
                 html_m = await get_html_simples(page, modelo["url"])
                 if not html_m:

@@ -1,5 +1,5 @@
 """
-browser.py — Inicialização do Playwright e helpers de navegação.
+browser.py -- Inicializacao do Playwright e helpers de navegacao.
 """
 
 import random
@@ -14,7 +14,7 @@ log = logging.getLogger(__name__)
 
 
 async def criar_contexto(playwright):
-    """Lança Chromium com fingerprint realista para evitar detecção."""
+    """Lanca Chromium com fingerprint realista para evitar deteccao."""
     browser = await playwright.chromium.launch(
         headless=True,
         args=["--no-sandbox", "--disable-blink-features=AutomationControlled"],
@@ -39,8 +39,8 @@ async def criar_contexto(playwright):
 
 async def get_html_aguardando(page: Page, url: str, seletor: str, tentativas: int = 3) -> str | None:
     """
-    Navega até `url` e aguarda o seletor CSS aparecer no DOM.
-    Usado quando o conteúdo é renderizado por JavaScript.
+    Navega ate `url` e aguarda o seletor CSS aparecer no DOM.
+    Usado quando o conteudo eh renderizado por JavaScript.
     """
     for t in range(1, tentativas + 1):
         try:
@@ -49,19 +49,19 @@ async def get_html_aguardando(page: Page, url: str, seletor: str, tentativas: in
             await page.wait_for_timeout(random.randint(DELAY_MIN, DELAY_MAX))
             return await page.content()
         except PWTimeout:
-            log.warning(f"  Timeout '{seletor}' ({t}/{tentativas}) — {url}")
+            log.warning(f"  Timeout '{seletor}' ({t}/{tentativas}) - {url}")
             await page.wait_for_timeout(5_000 * t)
         except Exception as e:
             log.error(f"  Erro ({t}/{tentativas}): {e}")
             await page.wait_for_timeout(5_000 * t)
-    log.error(f"  Desistindo após {tentativas} tentativas: {url}")
+    log.error(f"  Desistindo apos {tentativas} tentativas: {url}")
     return None
 
 
 async def get_html_simples(page: Page, url: str, tentativas: int = 3) -> str | None:
     """
-    Navega até `url` aguardando networkidle.
-    Usado quando não há seletor crítico a esperar.
+    Navega ate `url` aguardando networkidle.
+    Usado quando nao ha seletor critico a esperar.
     """
     for t in range(1, tentativas + 1):
         try:
@@ -70,10 +70,10 @@ async def get_html_simples(page: Page, url: str, tentativas: int = 3) -> str | N
             await page.wait_for_timeout(random.randint(DELAY_MIN, DELAY_MAX))
             return await page.content()
         except PWTimeout:
-            log.warning(f"  Timeout networkidle ({t}/{tentativas}) — {url}")
+            log.warning(f"  Timeout networkidle ({t}/{tentativas}) - {url}")
             await page.wait_for_timeout(5_000 * t)
         except Exception as e:
             log.error(f"  Erro ({t}/{tentativas}): {e}")
             await page.wait_for_timeout(5_000 * t)
-    log.error(f"  Desistindo após {tentativas} tentativas: {url}")
+    log.error(f"  Desistindo apos {tentativas} tentativas: {url}")
     return None
