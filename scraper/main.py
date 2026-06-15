@@ -17,6 +17,7 @@ import logging
 from scraper.logging_config import configurar_logging
 from scraper.orchestrator   import raspar_marca, raspar_url_unica
 from scraper.storage        import salvar
+from scraper.config         import OUTPUT_DIR
 
 configurar_logging()
 log = logging.getLogger(__name__)
@@ -43,6 +44,7 @@ def main():
     parser.add_argument("--todas",   action="store_true", help="Raspa todas as marcas conhecidas")
     parser.add_argument("--url",     default=None,     help="URL de uma versao especifica")
     parser.add_argument("--dry-run", action="store_true", help="Lista URLs sem raspar fichas")
+    parser.add_argument("--force",   action="store_true", help="Refaz marcas mesmo se ja houver saida")
     args = parser.parse_args()
 
     log.info("-" * 55)
@@ -54,11 +56,16 @@ def main():
         salvar(fichas, "ficha_unica")
 
     elif args.todas:
-        for marca in TODAS_AS_MARCAS:
+        marcas = TODAS_AS_MARCAS if args.force else [m for m in TODAS_AS_MARCAS if not _ja_processada(m)]
+        if not marcas:
+            log.info("Nenhuma marca pendente. Use --force para raspar tudo novamente.")
+        for marca in marcas:
             log.info(f"\n{'-'*55}\n  MARCA: {marca.upper()}\n{'-'*55}")
             fichas = asyncio.run(raspar_marca(marca, dry_run=args.dry_run))
             if fichas:
                 salvar(fichas, f"fichas_{marca}")
+            elif not args.force:
+                log.info(f"Marca {marca.upper()} ja possui saida e foi ignorada.")
 
     else:
         marcas = args.marcas or [args.marca]
@@ -69,6 +76,11 @@ def main():
                 salvar(fichas, f"fichas_{marca}")
 
     log.info("Scraper finalizado.")
+
+
+def _ja_processada(marca: str) -> bool:
+    padrao = f"fichas_{marca}_*.json"
+    return any(OUTPUT_DIR.glob(padrao))
 
 
 if __name__ == "__main__":

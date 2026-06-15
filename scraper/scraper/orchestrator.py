@@ -6,6 +6,7 @@ Nivel 2: listar versoes de cada modelo
 Nivel 3: extrair ficha tecnica de cada versao
 """
 
+import asyncio
 import logging
 from datetime import datetime
 from urllib.parse import urljoin
@@ -58,6 +59,8 @@ async def raspar_marca(marca: str, dry_run: bool = False) -> list[dict]:
             # -- Niveis 2 e 3: versoes e fichas --
             todas_fichas = []
             for i, modelo in enumerate(modelos, 1):
+                if i > 1:
+                    await asyncio.sleep(8)
                 log.info(f"\n-- Modelo {i}/{len(modelos)}: {modelo['nome']} --")
 
                 html_m = await get_html_simples(page, modelo["url"])
@@ -66,10 +69,10 @@ async def raspar_marca(marca: str, dry_run: bool = False) -> list[dict]:
                     continue
 
                 versoes = parsear_versoes(html_m, modelo)
-                log.info(f"  [Nível 2] {len(versoes)} versões")
+                log.info(f"  [Nivel 2] {len(versoes)} versoes")
 
                 for j, versao in enumerate(versoes, 1):
-                    log.info(f"  [Nível 3] Versão {j}/{len(versoes)}: {versao['versao']}")
+                    log.info(f"  [Nivel 3] Versao {j}/{len(versoes)}: {versao['versao']}")
                     html_v = await get_html_aguardando(page, versao["url"], SEL_FICHA)
                     if html_v:
                         ficha = parsear_ficha(html_v, versao)
@@ -81,11 +84,22 @@ async def raspar_marca(marca: str, dry_run: bool = False) -> list[dict]:
             return limpar_fichas(todas_fichas)
 
         finally:
-            await browser.close()
+            try:
+                await page.close()
+            except Exception as e:
+                log.debug(f"Erro ao fechar page: {e}")
+            try:
+                await context.close()
+            except Exception as e:
+                log.debug(f"Erro ao fechar context: {e}")
+            try:
+                await browser.close()
+            except Exception as e:
+                log.debug(f"Erro ao fechar browser: {e}")
 
 
 async def raspar_url_unica(url: str) -> list[dict]:
-    """Raspa a ficha técnica de uma versão específica via URL direta."""
+    """Raspa a ficha tecnica de uma versao especifica via URL direta."""
     partes = url.rstrip("/").split("/")
     versao_info = {
         "marca":       partes[-3] if len(partes) >= 3 else "",
@@ -108,10 +122,21 @@ async def raspar_url_unica(url: str) -> list[dict]:
                 ficha["modelo"] = ficha["titulo_pagina"]
             return limpar_fichas([ficha])
         finally:
-            await browser.close()
+            try:
+                await page.close()
+            except Exception as e:
+                log.debug(f"Erro ao fechar page: {e}")
+            try:
+                await context.close()
+            except Exception as e:
+                log.debug(f"Erro ao fechar context: {e}")
+            try:
+                await browser.close()
+            except Exception as e:
+                log.debug(f"Erro ao fechar browser: {e}")
 
 
 def _exibir_dry_run(marca: str, modelos: list[dict]) -> None:
-    print(f"\n{'─'*60}\nDRY RUN — {len(modelos)} modelos em '{marca}'\n{'─'*60}")
+    print(f"\n{'='*60}\nDRY RUN - {len(modelos)} modelos em '{marca}'\n{'='*60}")
     for m in modelos:
         print(f"  {m['nome']:30s}  {m['url']}")

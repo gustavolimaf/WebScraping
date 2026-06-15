@@ -9,8 +9,8 @@ from pathlib import Path
 BASE_URL = "https://www.fichacompleta.com.br"
 
 # -- Delays entre requisicoes (ms)
-DELAY_MIN = 1500
-DELAY_MAX = 3500
+DELAY_MIN = 2000
+DELAY_MAX = 4500
 
 # -- Diretorio de saida
 OUTPUT_DIR = Path("output")
