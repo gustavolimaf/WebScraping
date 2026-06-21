@@ -1,568 +1,568 @@
 ﻿marca,modelo,versao,preco_orcamento,ano,potencia_cv,lugares_grupo,cambio,categoria,ambiente_ideal
-honda,Accord,accord-ex-2-2-1991,0.0,0.0,142.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-2-1992,0.0,0.0,142.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-2-1993,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-lx-2-2-1993,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Accord,accord-coupe-ex-2-2-1994,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-2-1994,0.0,0.0,145.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-lx-2-2-1994,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-coupe-ex-2-2-1995,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-2-1995,0.0,0.0,145.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-7-v6-1995,0.0,0.0,172.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-lx-2-2-1995,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-coupe-ex-2-2-1996,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-2-1996,0.0,0.0,145.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-7-v6-1996,0.0,0.0,172.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-exr-2-2-1996,0.0,0.0,145.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-lx-2-2-1996,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-exr-2-2-1997,0.0,0.0,145.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-3-1998,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-r-2-3-1998,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-3-1999,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-r-2-3-1999,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-3-2000,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-r-2-3-2000,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-3-2001,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-r-2-3-2001,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-3-2002,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-4-2003,0.0,0.0,158.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-4-2004,0.0,0.0,158.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-0-v6-2004,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-4-2005,0.0,0.0,158.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-0-v6-2005,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-lx-2-4-2005,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-0-v6-2006,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-lx-2-0-2006,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-0-v6-2007,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-lx-2-0-2007,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-5-v6-2008,0.0,0.0,278.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-lx-2-0-2008,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-5-v6-2009,0.0,0.0,278.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-lx-2-0-2009,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-0-2010,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-5-v6-2010,0.0,0.0,278.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-0-2011,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-5-v6-2011,0.0,0.0,278.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-0-2012,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-5-v6-2012,0.0,0.0,278.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-4-2013,0.0,0.0,175.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-5-v6-2013,0.0,0.0,280.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-2-4-2014,0.0,0.0,175.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-5-v6-2014,0.0,0.0,280.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-5-v6-2015,0.0,0.0,280.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-5-v6-2016,0.0,0.0,280.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-ex-3-5-v6-2017,0.0,0.0,280.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-touring-2-0-turbo-2018,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-touring-2-0-turbo-2019,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-touring-2-0-turbo-2020,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-hybrid-2-0-2021,0.0,0.0,145.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-hybrid-2-0-2023,0.0,0.0,146.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-hybrid-2-0-2024,0.0,0.0,146.0,5.0,Auto,Indefinido,Urbano
-honda,Accord,accord-hybrid-2-0-2025,0.0,0.0,146.0,5.0,Auto,Indefinido,Urbano
-honda,Accord Wagon,accord-wagon-ex-2-2-1991,0.0,0.0,142.0,5.0,Auto,Indefinido,Urbano
-honda,Accord Wagon,accord-wagon-ex-2-2-1992,0.0,0.0,142.0,5.0,Auto,Indefinido,Urbano
-honda,Accord Wagon,accord-wagon-lx-2-2-1993,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Accord Wagon,accord-wagon-lx-2-2-1994,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Accord Wagon,accord-wagon-lx-2-2-1995,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-ex-1-5-2010,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2010,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-2010,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2010,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-2010,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2010,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-dx-1-5-2011,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-dx-1-5-at-2011,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-ex-1-5-2011,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2011,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-2011,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2011,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-2011,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2011,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-dx-1-5-2012,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-dx-1-5-at-2012,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-ex-1-5-2012,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2012,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2012,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-2012,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2012,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-dx-1-5-2013,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-2013,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2013,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-2013,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2013,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-dx-1-5-2014,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2014,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2014,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-sport-1-5-2014,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-dx-1-5-2015,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2015,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2015,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2015,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-dx-1-5-2016,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-dx-1-5-at-2016,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2016,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2016,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2016,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-dx-1-5-2017,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-dx-1-5-at-2017,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2017,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2017,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2017,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-dx-1-5-2018,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2018,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2018,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2018,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-personal-1-5-at-pcd-2018,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-dx-1-5-2019,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2019,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2019,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-personal-1-5-at-pcd-2019,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-dx-1-5-2020,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-personal-1-5-at-pcd-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-dx-1-5-2021,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-personal-1-5-at-pcd-2021,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-touring-1-5-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-touring-1-5-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-touring-1-5-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-touring-1-5-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-ex-1-5-at-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-exl-1-5-at-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-lx-1-5-at-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City,city-touring-1-5-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-exl-1-5-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-touring-1-5-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-exl-1-5-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-touring-1-5-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-ex-1-5-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-exl-1-5-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-lx-1-5-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-touring-1-5-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-ex-1-5-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-exl-1-5-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-lx-1-5-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-touring-1-5-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-ex-1-5-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-exl-1-5-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-lx-1-5-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-touring-1-5-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,City Hatch,city-hatch-touring-sport-1-5-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-1992,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-at-1992,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-1993,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-at-1993,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-5-1993,0.0,0.0,103.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-5-at-1993,0.0,0.0,103.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-1994,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-at-1994,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-5-1994,0.0,0.0,103.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-1995,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-at-1995,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-5-1995,0.0,0.0,103.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-5-at-1995,0.0,0.0,103.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-at-1996,0.0,0.0,127.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-6-1996,0.0,0.0,106.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-6-at-1996,0.0,0.0,106.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-at-1997,0.0,0.0,127.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-6-1997,0.0,0.0,106.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-6-at-1997,0.0,0.0,106.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-1998,0.0,0.0,127.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-at-1998,0.0,0.0,127.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-6-1998,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-6-at-1998,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-1999,0.0,0.0,127.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-at-1999,0.0,0.0,127.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-6-1999,0.0,0.0,106.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-6-at-1999,0.0,0.0,106.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-2000,0.0,0.0,127.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-6-at-2000,0.0,0.0,127.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-6-2000,0.0,0.0,106.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-6-at-2000,0.0,0.0,106.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-7-2001,0.0,0.0,130.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-7-at-2001,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-2001,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-at-2001,0.0,0.0,115.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxb-1-7-2001,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-7-2002,0.0,0.0,130.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-7-at-2002,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-2002,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-at-2002,0.0,0.0,115.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-7-2003,0.0,0.0,130.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-ex-1-7-at-2003,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-2003,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-at-2003,0.0,0.0,115.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxl-1-7-at-2003,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-7-at-2004,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-2004,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-at-2004,0.0,0.0,115.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxl-1-7-at-2004,0.0,0.0,115.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-7-at-2005,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-2005,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-at-2005,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxl-1-7-2005,0.0,0.0,130.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxl-1-7-at-2005,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-1-7-at-2006,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-2006,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lx-1-7-at-2006,0.0,0.0,115.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxl-1-7-2006,0.0,0.0,130.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxl-1-7-at-2006,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-exs-1-8-at-2007,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-1-8-at-2007,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-2007,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-at-2007,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-si-2-0-2007,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-exs-1-8-at-2008,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-2008,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-at-2008,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-si-2-0-2008,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-exs-1-8-at-2009,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-2009,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-at-2009,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-si-2-0-2009,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-exs-1-8-at-2010,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxl-1-8-2010,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxl-1-8-at-2010,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-2010,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-at-2010,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-si-2-0-2010,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-exs-1-8-at-2011,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxl-1-8-2011,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxl-1-8-at-2011,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxl-se-1-8-2011,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxl-se-1-8-at-2011,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-2011,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-at-2011,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-si-2-0-2011,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-exs-1-8-at-2012,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxl-1-8-2012,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxl-1-8-at-2012,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-2012,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-at-2012,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-exs-1-8-at-2013,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxl-1-8-2013,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxl-1-8-at-2013,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-2013,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-at-2013,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-exr-2-0-2014,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxr-2-0-2014,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-2014,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-at-2014,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxr-2-0-2015,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-2015,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-at-2015,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-exr-2-0-2016,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxr-2-0-2016,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-2016,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-lxs-1-8-at-2016,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-2-0-at-2017,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-exl-2-0-at-2017,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-sport-2-0-2017,0.0,0.0,155.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-sport-2-0-at-2017,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-touring-1-5-turbo-at-2017,0.0,0.0,173.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-2-0-at-2018,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-exl-2-0-at-2018,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-sport-2-0-2018,0.0,0.0,155.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-sport-2-0-at-2018,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-touring-1-5-turbo-at-2018,0.0,0.0,173.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-2-0-at-2019,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-exl-2-0-at-2019,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-sport-2-0-2019,0.0,0.0,155.0,5.0,Manual,Indefinido,Urbano
-honda,Civic,civic-sport-2-0-at-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-touring-1-5-turbo-at-2019,0.0,0.0,173.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-2-0-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-exl-2-0-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-2-0-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-sport-2-0-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-touring-1-5-turbo-at-2020,0.0,0.0,173.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-ex-2-0-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-exl-2-0-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-lx-2-0-at-2021,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-sport-2-0-at-2021,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-touring-1-5-turbo-at-2021,0.0,0.0,173.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-hybrid-2-0-2023,0.0,0.0,143.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-hybrid-2-0-2024,0.0,0.0,143.0,5.0,Auto,Indefinido,Urbano
-honda,Civic,civic-hybrid-2-0-2025,0.0,0.0,143.0,5.0,Auto,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-ex-1-6-1994,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-ex-1-6-at-1994,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-exs-1-6-1994,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-ex-1-6-1995,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-ex-1-6-at-1995,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-exs-1-6-1995,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-exs-1-6-at-1995,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-ex-1-6-1996,0.0,0.0,127.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-ex-1-6-1997,0.0,0.0,127.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-ex-1-6-1998,0.0,0.0,127.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-si-2-4-2014,0.0,0.0,206.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-si-2-4-2015,0.0,0.0,206.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-si-1-5-turbo-2018,0.0,0.0,208.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-si-1-5-turbo-2019,0.0,0.0,208.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Coupe,civic-coupe-si-1-5-turbo-2020,0.0,0.0,208.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Crx,civic-crx-del-sol-1-6-1993,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Crx,civic-crx-vti-1-6-1993,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Crx,civic-crx-del-sol-1-6-1994,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Crx,civic-crx-vti-1-6-1994,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Crx,civic-crx-vti-1-6-1995,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-dx-1-5-1993,0.0,0.0,103.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-lsi-1-5-1993,0.0,0.0,90.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-si-1-6-1993,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-vti-1-6-1993,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-dx-1-5-1994,0.0,0.0,103.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-dx-1-5-at-1994,0.0,0.0,103.0,5.0,Auto,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-si-1-6-1994,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-vti-1-6-1994,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-dx-1-5-1995,0.0,0.0,103.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-si-1-6-1995,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-vti-1-6-1995,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-lx-1-6-at-1996,0.0,0.0,106.0,5.0,Auto,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-vti-1-6-1996,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-vti-1-6-1997,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-vti-1-6-1998,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-type-r-2-0-2023,0.0,0.0,297.0,5.0,Manual,Indefinido,Urbano
-honda,Civic Hatch,civic-hatch-type-r-2-0-2024,0.0,0.0,297.0,5.0,Manual,Indefinido,Urbano
-honda,Cr-v,cr-v-si-2-0-4x4-2000,0.0,0.0,147.0,5.0,Manual,Indefinido,Urbano
-honda,Cr-v,cr-v-si-2-0-4x4-at-2000,0.0,0.0,147.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-si-2-0-4x4-2001,0.0,0.0,147.0,5.0,Manual,Indefinido,Urbano
-honda,Cr-v,cr-v-si-2-0-4x4-at-2001,0.0,0.0,147.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-si-2-4-4x4-at-2002,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-si-2-4-4x4-at-2003,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-si-2-4-4x4-at-2004,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-si-2-0-4x4-at-2005,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-si-2-0-4x4-at-2006,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-ex-2-0-4x4-at-2007,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x4-at-2008,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-lx-2-0-4x2-at-2008,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x4-at-2009,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-lx-2-0-4x2-at-2009,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x4-at-2010,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-lx-2-0-4x2-at-2010,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x4-at-2011,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-lx-2-0-4x2-at-2011,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x4-at-2012,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-lx-2-0-4x2-2012,0.0,0.0,155.0,5.0,Manual,Indefinido,Urbano
-honda,Cr-v,cr-v-lx-2-0-4x2-at-2012,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x2-at-2013,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x4-at-2013,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-lx-2-0-4x2-at-2013,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x2-at-2014,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x4-at-2014,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-lx-2-0-4x2-at-2014,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x4-at-2015,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-lx-2-0-4x2-at-2015,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-exl-2-0-4x4-at-2016,0.0,0.0,155.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-touring-1-5-turbo-4x4-2018,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-touring-1-5-turbo-4x4-2019,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-touring-1-5-turbo-4x4-2020,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-touring-1-5-turbo-4x4-2021,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-advanced-hybrid-2-0-2024,0.0,0.0,147.0,5.0,Auto,Indefinido,Urbano
-honda,Cr-v,cr-v-advanced-hybrid-2-0-2025,0.0,0.0,147.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-8v-2004,0.0,0.0,80.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-8v-at-2004,0.0,0.0,80.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-8v-2004,0.0,0.0,80.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-8v-at-2004,0.0,0.0,80.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-2005,0.0,0.0,105.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2005,0.0,0.0,105.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-8v-2005,0.0,0.0,80.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-8v-at-2005,0.0,0.0,80.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-8v-2005,0.0,0.0,80.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-8v-at-2005,0.0,0.0,80.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-2006,0.0,0.0,105.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2006,0.0,0.0,105.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-8v-2006,0.0,0.0,80.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-8v-at-2006,0.0,0.0,80.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-8v-2006,0.0,0.0,80.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-8v-at-2006,0.0,0.0,80.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-2007,0.0,0.0,105.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2007,0.0,0.0,105.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-8v-2007,0.0,0.0,80.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-8v-at-2007,0.0,0.0,80.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-8v-2007,0.0,0.0,80.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-8v-at-2007,0.0,0.0,80.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-2008,0.0,0.0,105.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2008,0.0,0.0,105.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-8v-2008,0.0,0.0,83.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-8v-at-2008,0.0,0.0,80.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-8v-2008,0.0,0.0,83.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-8v-at-2008,0.0,0.0,80.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-s-1-5-2008,0.0,0.0,105.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-s-1-5-at-2008,0.0,0.0,105.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-2009,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2009,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-2009,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2009,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-2009,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-at-2009,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-16v-2009,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-16v-at-2009,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-2010,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2010,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-2010,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2010,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-2010,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-at-2010,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-16v-2010,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-16v-at-2010,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-4-2011,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-dx-1-4-at-2011,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-2011,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2011,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-2011,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2011,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-2011,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-at-2011,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-16v-2011,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-16v-at-2011,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-4-2012,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-dx-1-4-at-2012,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-2012,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2012,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-2012,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2012,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-2012,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-at-2012,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-16v-2012,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lxl-1-4-16v-at-2012,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-4-2013,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-2013,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2013,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2013,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-2013,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-at-2013,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-twist-1-5-2013,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-twist-1-5-at-2013,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-cx-1-4-2014,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-cx-1-4-at-2014,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-4-2014,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2014,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-2014,0.0,0.0,101.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-4-16v-at-2014,0.0,0.0,101.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-twist-1-5-2014,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-twist-1-5-at-2014,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-5-2015,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-dx-1-5-at-2015,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2015,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2015,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-5-2015,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-5-at-2015,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-5-2016,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-dx-1-5-at-2016,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2016,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2016,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-5-2016,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-5-at-2016,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-5-2017,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-dx-1-5-at-2017,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2017,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2017,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-5-2017,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-lx-1-5-at-2017,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-5-2018,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2018,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2018,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-5-at-2018,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-personal-1-5-at-pcd-2018,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-5-2019,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2019,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2019,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-5-at-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-personal-1-5-at-pcd-2019,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-5-2020,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-5-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-personal-1-5-at-pcd-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-dx-1-5-2021,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
-honda,Fit,fit-ex-1-5-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-exl-1-5-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-lx-1-5-at-2021,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Fit,fit-personal-1-5-at-pcd-2021,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-ex-1-8-at-2016,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-exl-1-8-at-2016,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-lx-1-8-2016,0.0,0.0,139.0,5.0,Manual,Indefinido,Urbano
-honda,Hr-v,hr-v-lx-1-8-at-2016,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-ex-1-8-at-2017,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-exl-1-8-at-2017,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-lx-1-8-2017,0.0,0.0,139.0,5.0,Manual,Indefinido,Urbano
-honda,Hr-v,hr-v-lx-1-8-at-2017,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-touring-1-8-at-2017,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-ex-1-8-at-2018,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-exl-1-8-at-2018,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-lx-1-8-2018,0.0,0.0,139.0,5.0,Manual,Indefinido,Urbano
-honda,Hr-v,hr-v-lx-1-8-at-2018,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-touring-1-8-at-2018,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-ex-1-8-at-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-exl-1-8-at-2019,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-lx-1-8-at-2019,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-ex-1-8-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-exl-1-8-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-lx-1-8-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-touring-1-5-turbo-at-2020,0.0,0.0,173.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-ex-1-8-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-exl-1-8-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-lx-1-8-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-touring-1-5-turbo-at-2021,0.0,0.0,173.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-advance-1-5-turbo-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-ex-1-5-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-exl-1-5-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-touring-1-5-turbo-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-advance-1-5-turbo-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-ex-1-5-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-exl-1-5-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-touring-1-5-turbo-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-advance-1-5-turbo-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-ex-1-5-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-exl-1-5-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-touring-1-5-turbo-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-advance-1-5-turbo-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-ex-1-5-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-exl-1-5-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Hr-v,hr-v-touring-1-5-turbo-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Legend,legend-3-5-v6-1997,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
-honda,Legend,legend-3-5-v6-1998,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
-honda,Nsx,nsx-3-0-v6-1992,0.0,0.0,273.0,5.0,Manual,Indefinido,Urbano
-honda,Nsx,nsx-3-0-v6-1994,0.0,0.0,273.0,5.0,Manual,Indefinido,Urbano
-honda,Nsx,nsx-3-5-v6-turbo-2017,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
-honda,Odyssey,odyssey-ex-2-2-1995,0.0,0.0,142.0,5.0,Auto,Indefinido,Urbano
-honda,Odyssey,odyssey-ex-2-2-1996,0.0,0.0,142.0,5.0,Auto,Indefinido,Urbano
-honda,Odyssey,odyssey-ex-2-2-1997,0.0,0.0,142.0,5.0,Auto,Indefinido,Urbano
-honda,Passport,passport-3-2-v6-1994,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
-honda,Passport,passport-3-2-v6-1995,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
-honda,Prelude,prelude-s-2-2-1992,0.0,0.0,135.0,5.0,Manual,Indefinido,Urbano
-honda,Prelude,prelude-si-2-3-1992,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Prelude,prelude-s-2-2-1993,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
-honda,Prelude,prelude-si-2-3-1993,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Prelude,prelude-2-2-vtec-1994,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
-honda,Prelude,prelude-s-2-2-1994,0.0,0.0,135.0,5.0,Manual,Indefinido,Urbano
-honda,Prelude,prelude-si-2-3-1994,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Prelude,prelude-si-2-3-1995,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
-honda,Prelude,prelude-hybrid-2-0-2026,0.0,0.0,143.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-ex-1-5-at-2018,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-exl-1-5-at-2018,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-ex-1-5-at-2019,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-exl-1-5-at-2019,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-ex-1-5-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-exl-1-5-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-ex-1-5-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-exl-1-5-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-lx-1-5-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-ex-1-5-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Wr-v,wr-v-exl-1-5-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
-honda,Zr-v,zr-v-exl-2-0-2024,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
-honda,Zr-v,zr-v-touring-2-0-2024,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
-honda,Zr-v,zr-v-touring-2-0-2025,0.0,0.0,161.0,5.0,Auto,Indefinido,Urbano
-honda,Zr-v,zr-v-touring-2-0-2026,0.0,0.0,161.0,5.0,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-2-1991,,1991,142.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-2-1992,,1992,142.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-2-1993,,1993,,5,Auto,Indefinido,Urbano
+honda,Accord,accord-lx-2-2-1993,,1993,125.0,5,Manual,Indefinido,Urbano
+honda,Accord,accord-coupe-ex-2-2-1994,,1994,,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-2-1994,,1994,145.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-lx-2-2-1994,,1994,130.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-coupe-ex-2-2-1995,,1995,150.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-2-1995,,1995,145.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-7-v6-1995,,1995,172.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-lx-2-2-1995,,1995,130.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-coupe-ex-2-2-1996,,1996,,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-2-1996,,1996,145.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-7-v6-1996,,1996,172.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-exr-2-2-1996,,1996,145.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-lx-2-2-1996,,1996,130.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-exr-2-2-1997,,1997,145.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-3-1998,,1998,150.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-r-2-3-1998,,1998,150.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-3-1999,,1999,,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-r-2-3-1999,,1999,150.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-3-2000,,2000,,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-r-2-3-2000,,2000,150.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-3-2001,,2001,,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-r-2-3-2001,,2001,150.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-3-2002,,2002,,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-4-2003,,2003,158.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-4-2004,,2004,158.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-0-v6-2004,,2004,240.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-4-2005,,2005,158.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-0-v6-2005,,2005,240.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-lx-2-4-2005,,2005,,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-0-v6-2006,,2006,240.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-lx-2-0-2006,,2006,150.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-0-v6-2007,,2007,240.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-lx-2-0-2007,,2007,150.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-5-v6-2008,,2008,278.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-lx-2-0-2008,,2008,156.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-5-v6-2009,,2009,278.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-lx-2-0-2009,,2009,156.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-0-2010,,2010,156.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-5-v6-2010,,2010,278.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-0-2011,,2011,156.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-5-v6-2011,,2011,278.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-0-2012,,2012,156.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-5-v6-2012,,2012,278.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-4-2013,,2013,175.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-5-v6-2013,,2013,280.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-2-4-2014,,2014,175.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-5-v6-2014,,2014,280.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-5-v6-2015,,2015,280.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-5-v6-2016,,2016,280.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-ex-3-5-v6-2017,,2017,280.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-touring-2-0-turbo-2018,,2018,256.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-touring-2-0-turbo-2019,,2019,256.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-touring-2-0-turbo-2020,,2020,256.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-hybrid-2-0-2021,,2021,145.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-hybrid-2-0-2023,,2023,146.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-hybrid-2-0-2024,,2024,146.0,5,Auto,Indefinido,Urbano
+honda,Accord,accord-hybrid-2-0-2025,,2025,146.0,5,Auto,Indefinido,Urbano
+honda,Accord Wagon,accord-wagon-ex-2-2-1991,,1991,142.0,5,Auto,Indefinido,Urbano
+honda,Accord Wagon,accord-wagon-ex-2-2-1992,,1992,142.0,5,Auto,Indefinido,Urbano
+honda,Accord Wagon,accord-wagon-lx-2-2-1993,,1993,,5,Auto,Indefinido,Urbano
+honda,Accord Wagon,accord-wagon-lx-2-2-1994,,1994,130.0,5,Auto,Indefinido,Urbano
+honda,Accord Wagon,accord-wagon-lx-2-2-1995,,1995,,5,Auto,Indefinido,Urbano
+honda,City,city-ex-1-5-2010,,2010,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2010,,2010,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-2010,,2010,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2010,,2010,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-2010,,2010,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2010,,2010,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-dx-1-5-2011,,2011,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-dx-1-5-at-2011,,2011,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-ex-1-5-2011,,2011,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2011,,2011,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-2011,,2011,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2011,,2011,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-2011,,2011,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2011,,2011,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-dx-1-5-2012,,2012,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-dx-1-5-at-2012,,2012,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-ex-1-5-2012,,2012,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2012,,2012,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2012,,2012,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-2012,,2012,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2012,,2012,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-dx-1-5-2013,,2013,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-2013,,2013,,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2013,,2013,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-2013,,2013,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2013,,2013,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-dx-1-5-2014,,2014,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2014,,2014,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2014,,2014,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-sport-1-5-2014,,2014,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-dx-1-5-2015,,2015,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2015,,2015,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2015,,2015,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2015,,2015,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-dx-1-5-2016,,2016,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-dx-1-5-at-2016,,2016,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2016,,2016,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2016,,2016,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2016,,2016,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-dx-1-5-2017,,2017,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-dx-1-5-at-2017,,2017,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2017,,2017,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2017,,2017,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2017,,2017,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-dx-1-5-2018,,2018,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2018,,2018,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2018,,2018,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2018,,2018,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-personal-1-5-at-pcd-2018,,2018,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-dx-1-5-2019,,2019,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2019,,2019,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2019,,2019,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2019,,2019,,5,Auto,Indefinido,Urbano
+honda,City,city-personal-1-5-at-pcd-2019,,2019,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-dx-1-5-2020,,2020,,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,City,city-personal-1-5-at-pcd-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,City,city-dx-1-5-2021,,2021,116.0,5,Manual,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,City,city-personal-1-5-at-pcd-2021,,2021,116.0,5,Auto,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2022,,2022,,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2022,,2022,,5,Auto,Indefinido,Urbano
+honda,City,city-touring-1-5-2022,,2022,,5,Auto,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2023,,2023,,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2023,,2023,,5,Auto,Indefinido,Urbano
+honda,City,city-touring-1-5-2023,,2023,,5,Auto,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,City,city-touring-1-5-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,City,city-touring-1-5-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,City,city-ex-1-5-at-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,City,city-exl-1-5-at-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,City,city-lx-1-5-at-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,City,city-touring-1-5-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-exl-1-5-2022,,2022,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-touring-1-5-2022,,2022,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-exl-1-5-2023,,2023,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-touring-1-5-2023,,2023,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-ex-1-5-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-exl-1-5-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-lx-1-5-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-touring-1-5-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-ex-1-5-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-exl-1-5-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-lx-1-5-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-touring-1-5-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-ex-1-5-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-exl-1-5-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-lx-1-5-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-touring-1-5-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,City Hatch,city-hatch-touring-sport-1-5-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-1992,,1992,125.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-at-1992,,1992,125.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-1993,,1993,125.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-at-1993,,1993,125.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-5-1993,,1993,103.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-5-at-1993,,1993,103.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-1994,,1994,125.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-at-1994,,1994,125.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-5-1994,,1994,103.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-1995,,1995,125.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-at-1995,,1995,125.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-5-1995,,1995,103.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-5-at-1995,,1995,103.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-at-1996,,1996,127.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-6-1996,,1996,106.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-6-at-1996,,1996,106.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-at-1997,,1997,127.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-6-1997,,1997,106.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-6-at-1997,,1997,106.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-1998,,1998,127.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-at-1998,,1998,127.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-6-1998,,1998,,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-6-at-1998,,1998,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-1999,,1999,127.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-at-1999,,1999,127.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-6-1999,,1999,106.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-6-at-1999,,1999,106.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-2000,,2000,127.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-6-at-2000,,2000,127.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-6-2000,,2000,106.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-6-at-2000,,2000,106.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-7-2001,,2001,130.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-7-at-2001,,2001,130.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-2001,,2001,115.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-at-2001,,2001,115.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxb-1-7-2001,,2001,115.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-7-2002,,2002,130.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-7-at-2002,,2002,130.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-2002,,2002,115.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-at-2002,,2002,115.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-7-2003,,2003,130.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-ex-1-7-at-2003,,2003,130.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-2003,,2003,115.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-at-2003,,2003,115.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxl-1-7-at-2003,,2003,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-7-at-2004,,2004,130.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-2004,,2004,115.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-at-2004,,2004,115.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxl-1-7-at-2004,,2004,115.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-7-at-2005,,2005,130.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-2005,,2005,115.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-at-2005,,2005,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxl-1-7-2005,,2005,130.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxl-1-7-at-2005,,2005,130.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-1-7-at-2006,,2006,130.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-2006,,2006,115.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lx-1-7-at-2006,,2006,115.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxl-1-7-2006,,2006,130.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxl-1-7-at-2006,,2006,130.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-exs-1-8-at-2007,,2007,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-1-8-at-2007,,2007,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-2007,,2007,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-at-2007,,2007,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-si-2-0-2007,,2007,192.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-exs-1-8-at-2008,,2008,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-2008,,2008,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-at-2008,,2008,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-si-2-0-2008,,2008,192.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-exs-1-8-at-2009,,2009,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-2009,,2009,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-at-2009,,2009,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-si-2-0-2009,,2009,192.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-exs-1-8-at-2010,,2010,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxl-1-8-2010,,2010,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxl-1-8-at-2010,,2010,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-2010,,2010,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-at-2010,,2010,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-si-2-0-2010,,2010,192.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-exs-1-8-at-2011,,2011,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxl-1-8-2011,,2011,,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxl-1-8-at-2011,,2011,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxl-se-1-8-2011,,2011,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxl-se-1-8-at-2011,,2011,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-2011,,2011,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-at-2011,,2011,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-si-2-0-2011,,2011,192.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-exs-1-8-at-2012,,2012,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxl-1-8-2012,,2012,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxl-1-8-at-2012,,2012,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-2012,,2012,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-at-2012,,2012,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-exs-1-8-at-2013,,2013,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxl-1-8-2013,,2013,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxl-1-8-at-2013,,2013,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-2013,,2013,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-at-2013,,2013,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-exr-2-0-2014,,2014,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxr-2-0-2014,,2014,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-2014,,2014,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-at-2014,,2014,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxr-2-0-2015,,2015,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-2015,,2015,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-at-2015,,2015,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-exr-2-0-2016,,2016,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxr-2-0-2016,,2016,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-2016,,2016,140.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-lxs-1-8-at-2016,,2016,140.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-2-0-at-2017,,2017,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-exl-2-0-at-2017,,2017,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-sport-2-0-2017,,2017,155.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-sport-2-0-at-2017,,2017,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-touring-1-5-turbo-at-2017,,2017,173.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-2-0-at-2018,,2018,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-exl-2-0-at-2018,,2018,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-sport-2-0-2018,,2018,155.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-sport-2-0-at-2018,,2018,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-touring-1-5-turbo-at-2018,,2018,173.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-2-0-at-2019,,2019,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-exl-2-0-at-2019,,2019,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-sport-2-0-2019,,2019,155.0,5,Manual,Indefinido,Urbano
+honda,Civic,civic-sport-2-0-at-2019,,2019,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-touring-1-5-turbo-at-2019,,2019,173.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-2-0-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-exl-2-0-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-2-0-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-sport-2-0-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-touring-1-5-turbo-at-2020,,2020,173.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-ex-2-0-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-exl-2-0-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,Civic,civic-lx-2-0-at-2021,,2021,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-sport-2-0-at-2021,,2021,155.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-touring-1-5-turbo-at-2021,,2021,173.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-hybrid-2-0-2023,,2023,143.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-hybrid-2-0-2024,,2024,143.0,5,Auto,Indefinido,Urbano
+honda,Civic,civic-hybrid-2-0-2025,,2025,143.0,5,Auto,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-ex-1-6-1994,,1994,125.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-ex-1-6-at-1994,,1994,125.0,5,Auto,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-exs-1-6-1994,,1994,125.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-ex-1-6-1995,,1995,125.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-ex-1-6-at-1995,,1995,125.0,5,Auto,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-exs-1-6-1995,,1995,125.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-exs-1-6-at-1995,,1995,125.0,5,Auto,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-ex-1-6-1996,,1996,127.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-ex-1-6-1997,,1997,127.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-ex-1-6-1998,,1998,127.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-si-2-4-2014,,2014,206.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-si-2-4-2015,,2015,206.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-si-1-5-turbo-2018,,2018,208.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-si-1-5-turbo-2019,,2019,208.0,5,Manual,Indefinido,Urbano
+honda,Civic Coupe,civic-coupe-si-1-5-turbo-2020,,2020,208.0,5,Manual,Indefinido,Urbano
+honda,Civic Crx,civic-crx-del-sol-1-6-1993,,1993,125.0,5,Manual,Indefinido,Urbano
+honda,Civic Crx,civic-crx-vti-1-6-1993,,1993,160.0,5,Manual,Indefinido,Urbano
+honda,Civic Crx,civic-crx-del-sol-1-6-1994,,1994,125.0,5,Manual,Indefinido,Urbano
+honda,Civic Crx,civic-crx-vti-1-6-1994,,1994,160.0,5,Manual,Indefinido,Urbano
+honda,Civic Crx,civic-crx-vti-1-6-1995,,1995,160.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-dx-1-5-1993,,1993,103.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-lsi-1-5-1993,,1993,90.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-si-1-6-1993,,1993,125.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-vti-1-6-1993,,1993,160.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-dx-1-5-1994,,1994,103.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-dx-1-5-at-1994,,1994,103.0,5,Auto,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-si-1-6-1994,,1994,125.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-vti-1-6-1994,,1994,160.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-dx-1-5-1995,,1995,103.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-si-1-6-1995,,1995,125.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-vti-1-6-1995,,1995,160.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-lx-1-6-at-1996,,1996,106.0,5,Auto,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-vti-1-6-1996,,1996,160.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-vti-1-6-1997,,1997,160.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-vti-1-6-1998,,1998,160.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-type-r-2-0-2023,,2023,297.0,5,Manual,Indefinido,Urbano
+honda,Civic Hatch,civic-hatch-type-r-2-0-2024,,2024,297.0,5,Manual,Indefinido,Urbano
+honda,Cr-v,cr-v-si-2-0-4x4-2000,,2000,147.0,5,Manual,Indefinido,Rural
+honda,Cr-v,cr-v-si-2-0-4x4-at-2000,,2000,147.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-si-2-0-4x4-2001,,2001,147.0,5,Manual,Indefinido,Rural
+honda,Cr-v,cr-v-si-2-0-4x4-at-2001,,2001,147.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-si-2-4-4x4-at-2002,,2002,156.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-si-2-4-4x4-at-2003,,2003,156.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-si-2-4-4x4-at-2004,,2004,156.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-si-2-0-4x4-at-2005,,2005,150.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-si-2-0-4x4-at-2006,,2006,150.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-ex-2-0-4x4-at-2007,,2007,150.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-exl-2-0-4x4-at-2008,,2008,150.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-lx-2-0-4x2-at-2008,,2008,150.0,5,Auto,Indefinido,Urbano
+honda,Cr-v,cr-v-exl-2-0-4x4-at-2009,,2009,150.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-lx-2-0-4x2-at-2009,,2009,150.0,5,Auto,Indefinido,Urbano
+honda,Cr-v,cr-v-exl-2-0-4x4-at-2010,,2010,150.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-lx-2-0-4x2-at-2010,,2010,150.0,5,Auto,Indefinido,Urbano
+honda,Cr-v,cr-v-exl-2-0-4x4-at-2011,,2011,150.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-lx-2-0-4x2-at-2011,,2011,150.0,5,Auto,Indefinido,Urbano
+honda,Cr-v,cr-v-exl-2-0-4x4-at-2012,,2012,155.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-lx-2-0-4x2-2012,,2012,155.0,5,Manual,Indefinido,Urbano
+honda,Cr-v,cr-v-lx-2-0-4x2-at-2012,,2012,155.0,5,Auto,Indefinido,Urbano
+honda,Cr-v,cr-v-exl-2-0-4x2-at-2013,,2013,155.0,5,Auto,Indefinido,Urbano
+honda,Cr-v,cr-v-exl-2-0-4x4-at-2013,,2013,155.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-lx-2-0-4x2-at-2013,,2013,155.0,5,Auto,Indefinido,Urbano
+honda,Cr-v,cr-v-exl-2-0-4x2-at-2014,,2014,155.0,5,Auto,Indefinido,Urbano
+honda,Cr-v,cr-v-exl-2-0-4x4-at-2014,,2014,155.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-lx-2-0-4x2-at-2014,,2014,155.0,5,Auto,Indefinido,Urbano
+honda,Cr-v,cr-v-exl-2-0-4x4-at-2015,,2015,155.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-lx-2-0-4x2-at-2015,,2015,155.0,5,Auto,Indefinido,Urbano
+honda,Cr-v,cr-v-exl-2-0-4x4-at-2016,,2016,155.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-touring-1-5-turbo-4x4-2018,,2018,190.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-touring-1-5-turbo-4x4-2019,,2019,190.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-touring-1-5-turbo-4x4-2020,,2020,190.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-touring-1-5-turbo-4x4-2021,,2021,190.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-advanced-hybrid-2-0-2024,,2024,147.0,5,Auto,Indefinido,Rural
+honda,Cr-v,cr-v-advanced-hybrid-2-0-2025,,2025,147.0,5,Auto,Indefinido,Rural
+honda,Fit,fit-lx-1-4-8v-2004,,2004,80.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-8v-at-2004,,2004,80.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-8v-2004,,2004,80.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-8v-at-2004,,2004,80.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-2005,,2005,105.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2005,,2005,105.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-8v-2005,,2005,80.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-8v-at-2005,,2005,80.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-8v-2005,,2005,80.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-8v-at-2005,,2005,80.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-2006,,2006,105.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2006,,2006,105.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-8v-2006,,2006,80.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-8v-at-2006,,2006,80.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-8v-2006,,2006,80.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-8v-at-2006,,2006,80.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-2007,,2007,105.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2007,,2007,105.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-8v-2007,,2007,80.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-8v-at-2007,,2007,80.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-8v-2007,,2007,80.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-8v-at-2007,,2007,80.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-2008,,2008,105.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2008,,2008,105.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-8v-2008,,2008,83.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-8v-at-2008,,2008,80.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-8v-2008,,2008,83.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-8v-at-2008,,2008,80.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-s-1-5-2008,,2008,105.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-s-1-5-at-2008,,2008,105.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-2009,,2009,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2009,,2009,,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-2009,,2009,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2009,,2009,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-2009,,2009,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-at-2009,,2009,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-16v-2009,,2009,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-16v-at-2009,,2009,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-2010,,2010,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2010,,2010,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-2010,,2010,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2010,,2010,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-2010,,2010,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-at-2010,,2010,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-16v-2010,,2010,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-16v-at-2010,,2010,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-4-2011,,2011,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-dx-1-4-at-2011,,2011,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-2011,,2011,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2011,,2011,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-2011,,2011,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2011,,2011,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-2011,,2011,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-at-2011,,2011,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-16v-2011,,2011,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-16v-at-2011,,2011,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-4-2012,,2012,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-dx-1-4-at-2012,,2012,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-2012,,2012,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2012,,2012,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-2012,,2012,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2012,,2012,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-2012,,2012,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-at-2012,,2012,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-16v-2012,,2012,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lxl-1-4-16v-at-2012,,2012,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-4-2013,,2013,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-2013,,2013,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2013,,2013,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2013,,2013,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-2013,,2013,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-at-2013,,2013,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-twist-1-5-2013,,2013,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-twist-1-5-at-2013,,2013,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-cx-1-4-2014,,2014,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-cx-1-4-at-2014,,2014,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-4-2014,,2014,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2014,,2014,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-2014,,2014,101.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-4-16v-at-2014,,2014,101.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-twist-1-5-2014,,2014,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-twist-1-5-at-2014,,2014,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-5-2015,,2015,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-dx-1-5-at-2015,,2015,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2015,,2015,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2015,,2015,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-5-2015,,2015,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-5-at-2015,,2015,,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-5-2016,,2016,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-dx-1-5-at-2016,,2016,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2016,,2016,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2016,,2016,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-5-2016,,2016,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-5-at-2016,,2016,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-5-2017,,2017,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-dx-1-5-at-2017,,2017,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2017,,2017,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2017,,2017,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-5-2017,,2017,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-lx-1-5-at-2017,,2017,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-5-2018,,2018,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2018,,2018,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2018,,2018,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-5-at-2018,,2018,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-personal-1-5-at-pcd-2018,,2018,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-5-2019,,2019,116.0,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2019,,2019,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2019,,2019,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-5-at-2019,,2019,,5,Auto,Indefinido,Urbano
+honda,Fit,fit-personal-1-5-at-pcd-2019,,2019,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-5-2020,,2020,,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-5-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Fit,fit-personal-1-5-at-pcd-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Fit,fit-dx-1-5-2021,,2021,,5,Manual,Indefinido,Urbano
+honda,Fit,fit-ex-1-5-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,Fit,fit-exl-1-5-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,Fit,fit-lx-1-5-at-2021,,2021,116.0,5,Auto,Indefinido,Urbano
+honda,Fit,fit-personal-1-5-at-pcd-2021,,2021,116.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-ex-1-8-at-2016,,2016,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-exl-1-8-at-2016,,2016,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-lx-1-8-2016,,2016,139.0,5,Manual,Indefinido,Urbano
+honda,Hr-v,hr-v-lx-1-8-at-2016,,2016,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-ex-1-8-at-2017,,2017,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-exl-1-8-at-2017,,2017,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-lx-1-8-2017,,2017,139.0,5,Manual,Indefinido,Urbano
+honda,Hr-v,hr-v-lx-1-8-at-2017,,2017,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-touring-1-8-at-2017,,2017,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-ex-1-8-at-2018,,2018,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-exl-1-8-at-2018,,2018,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-lx-1-8-2018,,2018,139.0,5,Manual,Indefinido,Urbano
+honda,Hr-v,hr-v-lx-1-8-at-2018,,2018,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-touring-1-8-at-2018,,2018,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-ex-1-8-at-2019,,2019,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-exl-1-8-at-2019,,2019,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-lx-1-8-at-2019,,2019,139.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-ex-1-8-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-exl-1-8-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-lx-1-8-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-touring-1-5-turbo-at-2020,,2020,173.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-ex-1-8-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-exl-1-8-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-lx-1-8-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-touring-1-5-turbo-at-2021,,2021,173.0,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-advance-1-5-turbo-2023,,2023,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-ex-1-5-2023,,2023,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-exl-1-5-2023,,2023,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-touring-1-5-turbo-2023,,2023,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-advance-1-5-turbo-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-ex-1-5-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-exl-1-5-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-touring-1-5-turbo-2024,,2024,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-advance-1-5-turbo-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-ex-1-5-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-exl-1-5-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-touring-1-5-turbo-2025,,2025,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-advance-1-5-turbo-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-ex-1-5-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-exl-1-5-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,Hr-v,hr-v-touring-1-5-turbo-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,Legend,legend-3-5-v6-1997,,1997,205.0,5,Auto,Indefinido,Urbano
+honda,Legend,legend-3-5-v6-1998,,1998,205.0,5,Auto,Indefinido,Urbano
+honda,Nsx,nsx-3-0-v6-1992,,1992,273.0,5,Manual,Indefinido,Urbano
+honda,Nsx,nsx-3-0-v6-1994,,1994,273.0,5,Manual,Indefinido,Urbano
+honda,Nsx,nsx-3-5-v6-turbo-2017,,2017,507.0,5,Auto,Indefinido,Rural
+honda,Odyssey,odyssey-ex-2-2-1995,,1995,142.0,5,Auto,Indefinido,Urbano
+honda,Odyssey,odyssey-ex-2-2-1996,,1996,142.0,5,Auto,Indefinido,Urbano
+honda,Odyssey,odyssey-ex-2-2-1997,,1997,142.0,5,Auto,Indefinido,Urbano
+honda,Passport,passport-3-2-v6-1994,,1994,177.0,5,Auto,Indefinido,Urbano
+honda,Passport,passport-3-2-v6-1995,,1995,177.0,5,Auto,Indefinido,Urbano
+honda,Prelude,prelude-s-2-2-1992,,1992,135.0,5,Manual,Indefinido,Urbano
+honda,Prelude,prelude-si-2-3-1992,,1992,160.0,5,Manual,Indefinido,Urbano
+honda,Prelude,prelude-s-2-2-1993,,1993,,5,Manual,Indefinido,Urbano
+honda,Prelude,prelude-si-2-3-1993,,1993,160.0,5,Manual,Indefinido,Urbano
+honda,Prelude,prelude-2-2-vtec-1994,,1994,190.0,5,Manual,Indefinido,Urbano
+honda,Prelude,prelude-s-2-2-1994,,1994,135.0,5,Manual,Indefinido,Urbano
+honda,Prelude,prelude-si-2-3-1994,,1994,160.0,5,Manual,Indefinido,Urbano
+honda,Prelude,prelude-si-2-3-1995,,1995,160.0,5,Manual,Indefinido,Urbano
+honda,Prelude,prelude-hybrid-2-0-2026,,2026,143.0,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-ex-1-5-at-2018,,2018,116.0,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-exl-1-5-at-2018,,2018,116.0,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-ex-1-5-at-2019,,2019,116.0,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-exl-1-5-at-2019,,2019,116.0,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-ex-1-5-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-exl-1-5-at-2020,,2020,,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-ex-1-5-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-exl-1-5-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-lx-1-5-at-2021,,2021,,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-ex-1-5-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,Wr-v,wr-v-exl-1-5-2026,,2026,,5,Auto,Indefinido,Urbano
+honda,Zr-v,zr-v-exl-2-0-2024,,2024,160.0,5,Auto,Indefinido,Urbano
+honda,Zr-v,zr-v-touring-2-0-2024,,2024,160.0,5,Auto,Indefinido,Urbano
+honda,Zr-v,zr-v-touring-2-0-2025,,2025,161.0,5,Auto,Indefinido,Urbano
+honda,Zr-v,zr-v-touring-2-0-2026,,2026,161.0,5,Auto,Indefinido,Urbano

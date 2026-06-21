@@ -46,6 +46,10 @@ def migrar_arquivos():
         caminho_novo_csv = pasta_automatch / f"fichas_automatch_{marca}.csv"
         
         df_automatch = pd.DataFrame(dados_automatch)
+
+        df_automatch['ano'] = df_automatch['ano'].astype('Int64')
+        df_automatch['lugares_grupo'] = df_automatch['lugares_grupo'].astype('Int64')
+
         df_automatch.to_csv(caminho_novo_csv, index=False, encoding="utf-8-sig")
         
         print(f" -> Sucesso! Convertido para: {pasta_automatch.name}/{caminho_novo_csv.name} ({len(dados_automatch)} linhas)")
