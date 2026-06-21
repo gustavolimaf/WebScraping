@@ -22,7 +22,7 @@ from scraper.config         import OUTPUT_DIR
 configurar_logging()
 log = logging.getLogger(__name__)
 
-# Slugs de todas as marcas disponíveis no site (amplie conforme necessario)
+# Slugs de todas as marcas disponíveis no site (ampliar conforme necessario)
 TODAS_AS_MARCAS = [
     "byd", "toyota", "honda", "volkswagen", "chevrolet",
     "fiat", "hyundai", "nissan", "jeep", "ford",
@@ -39,10 +39,10 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
-    parser.add_argument("--marca",   default="byd",   help="Slug de uma unica marca")
-    parser.add_argument("--marcas",  nargs="+",        help="Lista de slugs de marcas")
+    parser.add_argument("--marca",   default="byd",  help="Slug de uma unica marca")
+    parser.add_argument("--marcas",  nargs="+",      help="Lista de slugs de marcas")
     parser.add_argument("--todas",   action="store_true", help="Raspa todas as marcas conhecidas")
-    parser.add_argument("--url",     default=None,     help="URL de uma versao especifica")
+    parser.add_argument("--url",     default=None,   help="URL de uma versao especifica")
     parser.add_argument("--dry-run", action="store_true", help="Lista URLs sem raspar fichas")
     parser.add_argument("--force",   action="store_true", help="Refaz marcas mesmo se ja houver saida")
     args = parser.parse_args()
@@ -52,8 +52,10 @@ def main():
     log.info("-" * 55)
 
     if args.url:
-        fichas = asyncio.run(raspar_url_unica(args.url))
-        salvar(fichas, "ficha_unica")
+        resultados = asyncio.run(raspar_url_unica(args.url))
+        if resultados and resultados.get("brutos"):
+            salvar(resultados["brutos"], "ficha_unica_raw")
+            salvar(resultados["automatch"], "ficha_unica_automatch")
 
     elif args.todas:
         marcas = TODAS_AS_MARCAS if args.force else [m for m in TODAS_AS_MARCAS if not _ja_processada(m)]
@@ -61,25 +63,32 @@ def main():
             log.info("Nenhuma marca pendente. Use --force para raspar tudo novamente.")
         for marca in marcas:
             log.info(f"\n{'-'*55}\n  MARCA: {marca.upper()}\n{'-'*55}")
-            fichas = asyncio.run(raspar_marca(marca, dry_run=args.dry_run))
-            if fichas:
-                salvar(fichas, f"fichas_{marca}")
-            elif not args.force:
-                log.info(f"Marca {marca.upper()} ja possui saida e foi ignorada.")
+            resultados = asyncio.run(raspar_marca(marca, dry_run=args.dry_run))
+            
+            if resultados and resultados.get("brutos"):
+                # Salva os dois ficheiros com prefixos diferentes
+                salvar(resultados["brutos"], f"fichas_raw_{marca}")
+                salvar(resultados["automatch"], f"fichas_automatch_{marca}")
+            elif not args.force and not args.dry_run:
+                log.info(f"Sem resultados novos para a marca {marca.upper()}.")
 
     else:
         marcas = args.marcas or [args.marca]
         for marca in marcas:
             log.info(f"\n{'-'*55}\n  MARCA: {marca.upper()}\n{'-'*55}")
-            fichas = asyncio.run(raspar_marca(marca, dry_run=args.dry_run))
-            if fichas:
-                salvar(fichas, f"fichas_{marca}")
+            resultados = asyncio.run(raspar_marca(marca, dry_run=args.dry_run))
+            
+            if resultados and resultados.get("brutos"):
+                # Salva os dois ficheiros com prefixos diferentes
+                salvar(resultados["brutos"], f"fichas_raw_{marca}")
+                salvar(resultados["automatch"], f"fichas_automatch_{marca}")
 
     log.info("Scraper finalizado.")
 
 
 def _ja_processada(marca: str) -> bool:
-    padrao = f"fichas_{marca}_*.json"
+    # Atualizado para procurar pelo novo prefixo de dados brutos
+    padrao = f"fichas_raw_{marca}_*.json"
     return any(OUTPUT_DIR.glob(padrao))
 
 

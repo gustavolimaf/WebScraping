@@ -1,0 +1,737 @@
+﻿marca,modelo,versao,preco_orcamento,ano,potencia_cv,lugares_grupo,cambio,categoria,ambiente_ideal
+mitsubishi,3000 Gt,3000-gt-vr-4-3-0-biturbo-1991,0.0,0.0,300.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,3000 Gt,3000-gt-vr-4-3-0-biturbo-1992,0.0,0.0,300.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,3000 Gt,3000-gt-vr-4-3-0-biturbo-1993,0.0,0.0,300.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,3000 Gt,3000-gt-vr-4-3-0-biturbo-1994,0.0,0.0,320.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,3000 Gt,3000-gt-vr-4-3-0-biturbo-1995,0.0,0.0,320.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,3000 Gt,3000-gt-vr-4-3-0-biturbo-1998,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Airtrek,airtrek-2-4-2003,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Airtrek,airtrek-2-4-2004,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Airtrek,airtrek-2-4-2005,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Airtrek,airtrek-2-0-turbo-2006,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Airtrek,airtrek-2-4-2006,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Airtrek,airtrek-2-4-2007,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Airtrek,airtrek-2-4-2008,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-at-2011,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-mt-2011,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x4-at-2011,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-at-2012,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-mt-2012,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x4-at-2012,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-at-2013,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-mt-2013,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x4-at-2013,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-at-2014,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-mt-2014,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x4-at-2014,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-at-2015,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-mt-2015,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x4-at-2015,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-at-2016,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-mt-2016,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x4-at-2016,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-oneill-2-0-4x2-at-2016,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-outdoor-2-0-4x2-at-2016,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-outdoor-2-0-4x4-mt-2016,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Asx,asx-s-2-0-4x4-at-2016,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-at-2017,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-mt-2017,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x4-at-2017,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-at-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-mt-2018,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x4-at-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-outdoor-2-0-4x2-at-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x2-at-2019,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-2-0-4x4-at-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-gls-2-0-4x2-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-hpe-2-0-4x2-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-hpe-2-0-4x4-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-hpe-s-2-0-4x4-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-gls-2-0-4x2-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Asx,asx-gls-2-0-4x2-2022,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Colt,colt-glxi-1-6-1995,0.0,0.0,113.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Colt,colt-gti-1-8-1995,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Colt,colt-glxi-1-6-1996,0.0,0.0,113.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Colt,colt-gti-1-8-1996,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gs-1-8-1991,0.0,0.0,93.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gs-2-0-turbo-1991,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gs-2-0-1992,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gs-2-0-turbo-1992,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gs-2-0-1993,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gs-2-0-turbo-1993,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gsx-2-0-turbo-1993,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gs-2-0-1994,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gs-2-0-turbo-1994,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gs-2-0-1995,0.0,0.0,142.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gst-2-0-turbo-1995,0.0,0.0,213.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gst-2-0-turbo-at-1995,0.0,0.0,213.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gsx-2-0-turbo-1995,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gst-2-0-turbo-1996,0.0,0.0,213.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gst-2-0-turbo-1997,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gst-2-0-turbo-1998,0.0,0.0,213.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gst-2-0-turbo-at-1998,0.0,0.0,213.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gt-3-0-v6-2000,0.0,0.0,203.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gt-3-0-v6-2001,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gt-3-8-v6-2007,0.0,0.0,267.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gt-3-8-v6-2008,0.0,0.0,267.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse,eclipse-gt-3-8-v6-2009,0.0,0.0,267.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x2-2019,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x4-2019,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x4-2019-gasolina,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-gls-1-5-turbo-2020,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-1-5-turbo-2020,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x2-2020,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x4-2020,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-outdoor-1-5-turbo-4x4-2020,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-sport-1-5-turbo-4x4-2020,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-gls-1-5-turbo-2021,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-1-5-turbo-2021,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x2-2021,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x4-2021,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-gls-1-5-turbo-2022,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-1-5-turbo-2022,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x2-2022,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x4-2022,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-sport-1-5-turbo-4x2-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-sport-1-5-turbo-4x4-2022,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-gls-1-5-turbo-2023,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-1-5-turbo-2023,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x2-2023,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-turbo-4x4-2023,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-sport-1-5-turbo-4x4-2023,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-gls-1-5-2024,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-1-5-2024,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-4x2-2024,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-4x4-2024,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-sport-1-5-4x2-2024,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-sport-1-5-4x4-2024,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-1-5-2025,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-4x2-2025,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-4x4-2025,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-motorsports-1-5-4x4-2025,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-rush-1-5-2025,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-sport-1-5-4x2-2025,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-sport-1-5-4x4-2025,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-1-5-2026,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-black-1-5-2026,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-4x2-2026,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-1-5-4x4-2026,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-hpe-s-black-1-5-4x4-2026,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-rush-1-5-2026,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Eclipse Cross,eclipse-cross-tarmac-1-5-2026,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Expo,expo-sp-2-4-1992,0.0,0.0,138.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Expo,expo-lrv-sport-2-4-1993,0.0,0.0,138.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Expo,expo-sp-2-4-1994,0.0,0.0,138.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-es-2-4-1994,0.0,0.0,143.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-gs-2-0-v6-1994-gasolina,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-gs-2-0-v6-1994,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-es-2-4-1995,0.0,0.0,143.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-gs-2-0-v6-1995,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-gs-2-0-v6-1995-gasolina,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-super-saloon-2-0-1997,0.0,0.0,136.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Galant,galant-vr-2-5-v6-1997,0.0,0.0,163.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Galant,galant-super-saloon-2-0-1998,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-vr-2-5-v6-1998,0.0,0.0,163.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Galant,galant-super-saloon-2-0-1999,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-vr-2-5-v6-1999,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-vr-2-5-v6-2000,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-vr-2-5-v6-2001,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-vr-2-5-v6-2002,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-vr-2-5-v6-2003,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-vr-2-5-v6-2004,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Galant,galant-vr-2-5-v6-2005,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Grandis,grandis-2-4-2005,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Grandis,grandis-2-4-2006,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Grandis,grandis-2-4-2007,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Grandis,grandis-2-4-2008,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x2-cd-1992,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x4-cd-1992,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x2-cd-1993,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x4-cd-1993,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x2-cd-1994,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x4-cd-1994,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x2-cd-1995,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x4-cd-1995,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x2-cd-1996,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x4-cd-1996,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x2-cd-1997,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x4-cd-1997,0.0,0.0,84.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-2-5-turbo-4x4-cd-1998,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-1999,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gls-2-5-turbo-1999,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2000,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gls-2-5-turbo-2000,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2001,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gls-2-5-turbo-2001,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-2-5-turbo-2001,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2002,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gls-2-5-turbo-2002,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-l-2-5-turbo-2002,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2003,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gls-2-5-turbo-2003,0.0,0.0,87.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gls-hpe-2-5-turbo-2003,0.0,0.0,118.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-gls-2-5-turbo-2003,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2004,0.0,0.0,100.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gls-2-5-turbo-2004,0.0,0.0,100.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-savana-2-5-turbo-2004,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-gls-2-5-turbo-2004,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-hpe-2-5-turbo-2004,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-hpe-2-5-turbo-at-2004,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2005,0.0,0.0,100.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-gls-2-5-turbo-2005,0.0,0.0,100.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-savana-2-5-turbo-2005,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-gls-2-5-turbo-2005,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-hpe-2-5-turbo-2005,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-hpe-2-5-turbo-at-2005,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-gls-2-5-turbo-2006,0.0,0.0,100.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-savana-2-5-turbo-2006,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-gls-2-5-turbo-2006,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-hpe-2-5-turbo-2006,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-hpe-2-5-turbo-at-2006,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2007,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-gls-2-5-turbo-2007,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-hpe-2-5-turbo-2007,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-hpe-2-5-turbo-at-2007,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-savana-2-5-turbo-2007,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-gls-2-5-turbo-2007,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-hpe-2-5-turbo-2007,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-sport-hpe-2-5-turbo-at-2007,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2008,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-hpe-2-5-turbo-2008,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-hpe-2-5-turbo-at-2008,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-savana-2-5-turbo-2008,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2008,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-at-2008,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-5-v6-at-2008,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2009,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-gls-2-5-turbo-2009,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-hpe-2-5-turbo-2009,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-hpe-2-5-turbo-at-2009,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-savana-2-5-turbo-2009,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2009,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-at-2009,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-5-v6-at-2009,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2010,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-gls-2-5-turbo-2010,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-hpe-2-5-turbo-2010,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-hpe-2-5-turbo-at-2010,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-savana-2-5-turbo-2010,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2010,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-at-2010,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-5-v6-at-2010,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2011,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-gls-2-5-turbo-2011,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-hpe-2-5-turbo-2011,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-savana-2-5-turbo-2011,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2011,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-at-2011,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-5-v6-at-2011,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-gl-2-5-turbo-2012,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-gls-2-5-turbo-2012,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-outdoor-hpe-2-5-turbo-2012,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-savana-2-5-turbo-2012,0.0,0.0,121.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-glx-3-2-turbo-2012,0.0,0.0,170.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2012,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-at-2012,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-5-v6-at-2012,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-xb-3-2-turbo-2012,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-3-2-turbo-2013,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gls-3-2-turbo-2013,0.0,0.0,170.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-glx-3-2-turbo-2013,0.0,0.0,170.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hls-2-4-flex-2013,0.0,0.0,142.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2013,0.0,0.0,170.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-at-2013,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-5-v6-at-2013,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-3-2-turbo-2013,0.0,0.0,170.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-3-2-turbo-2014,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gls-3-2-turbo-2014,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-glx-3-2-turbo-2014,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hls-2-4-flex-2014,0.0,0.0,142.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2014,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-at-2014,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-5-v6-at-2014,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-3-2-turbo-2014,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-3-2-turbo-2015,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gls-3-2-turbo-2015,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-glx-3-2-turbo-2015,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hls-2-4-flex-2015,0.0,0.0,142.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2015,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-at-2015,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-5-v6-at-2015,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-3-2-turbo-2015,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-3-2-turbo-2016,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gls-3-2-turbo-2016,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-glx-3-2-turbo-2016,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hls-2-4-flex-2016,0.0,0.0,142.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hls-chrome-edition-2-4-flex-2016,0.0,0.0,142.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2016,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-at-2016,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-5-v6-at-2016,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-ktm-series-3-2-turbo-2016,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-off-3-2-turbo-2016,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-3-2-turbo-2017,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gls-3-2-turbo-2017,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-glx-3-2-turbo-2017,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hls-2-4-flex-2017,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hls-chrome-edition-2-4-flex-2017,0.0,0.0,142.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2017,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-at-2017,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-5-v6-at-2017,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-2-4-flex-2017,0.0,0.0,142.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-3-2-turbo-2017,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-3-2-turbo-at-2017,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-3-2-turbo-2017,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-3-2-turbo-2017-diesel,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-3-2-turbo-at-2017,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-turbo-2017,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-2-4-turbo-at-2017,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-top-2-4-turbo-at-2017,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-3-2-turbo-2018,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-glx-3-2-turbo-2018,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-3-2-turbo-2018,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-2-4-flex-2018,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-3-2-turbo-at-2018,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-3-2-turbo-2018,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-3-2-turbo-at-2018,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gl-2-4-turbo-2018,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-turbo-2018,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-turbo-at-2018,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-glx-2-4-turbo-2018,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-glx-2-4-turbo-2018-diesel,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-2-4-turbo-at-2018,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-top-2-4-turbo-at-2018,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-s-2-4-turbo-at-2018,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gl-2-4-turbo-2019,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-2019,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-turbo-at-2019,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-glx-2-4-turbo-2019,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-2-4-turbo-at-2019,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-s-2-4-turbo-at-2019,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-motorsports-2-4-turbo-at-2020,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gl-2-4-turbo-2020,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-turbo-at-2020,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-glx-2-4-turbo-2020,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-glx-outdoor-2-4-turbo-2020,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-2-4-turbo-at-2020,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-s-2-4-turbo-at-2020,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-2-4-turbo-2021,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-motorsports-2-4-turbo-at-2021,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-gls-2-4-turbo-at-2021,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-glx-2-4-turbo-2021,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-hpe-2-4-turbo-at-2021,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-hpe-s-2-4-turbo-at-2021,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-turbo-at-2021,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-2-4-turbo-at-2021,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-s-2-4-turbo-at-2021,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-2-4-turbo-2022,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-gls-2-4-turbo-at-2022,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-glx-2-4-turbo-2022,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-2-4-turbo-at-2022,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-turbo-at-2022,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-2-4-turbo-at-2022,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-s-2-4-turbo-at-2022,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-2-4-turbo-2023,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gls-2-4-turbo-2023,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-gls-2-4-turbo-at-2023,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-glx-2-4-turbo-2023,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-2-4-turbo-at-2023,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-turbo-at-2023,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-2-4-turbo-at-2023,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-s-2-4-turbo-at-2023,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-sertoes-hpe-2-4-turbo-at-2023,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-2-4-2024,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gls-2-4-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-gls-2-4-at-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-glx-2-4-2024,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-at-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-2-4-at-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-s-2-4-at-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-savana-hpe-2-4-at-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-savana-sertoes-hpe-2-4-at-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-2-4-2025,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gls-2-4-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-gls-2-4-at-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-outdoor-glx-2-4-2025,0.0,0.0,190.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-gls-2-4-at-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-2-4-at-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-hpe-s-2-4-at-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-outdoor-gls-2-4-at-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-outdoor-plus-2-4-at-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-savana-hpe-2-4-at-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-terra-2-4-at-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-sport-urban-2-4-at-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-2-4-2026,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gl-2-4-mt-2026,0.0,0.0,205.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L200,l200-triton-gls-2-4-2026,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-2-4-2026,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-hpe-s-2-4-2026,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-katana-2-4-2026,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-katana-sr80-2-4-2026,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-savana-2-4-2026,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L200,l200-triton-tarmac-2-4-4x2-2026,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,L300,l300-dx-2-5-1995,0.0,0.0,72.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,L300,l300-dx-2-5-1998,0.0,0.0,74.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-glx-1-6-1994,0.0,0.0,105.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-glx-1-6-at-1994,0.0,0.0,113.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gti-1-8-1994,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-ls-1-8-1994,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-glx-1-6-1995,0.0,0.0,105.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-glx-1-6-at-1995,0.0,0.0,113.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gti-1-8-1995,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gti-1-8-1996,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-glx-1-6-1997,0.0,0.0,105.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-glx-1-6-at-1997,0.0,0.0,115.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-glx-1-6-1998,0.0,0.0,105.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-glx-1-6-at-1998,0.0,0.0,115.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-glx-1-6-1999,0.0,0.0,105.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-glx-1-6-at-1999,0.0,0.0,115.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-vi-2-0-turbo-2001,0.0,0.0,280.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-vii-2-0-turbo-2002,0.0,0.0,280.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-viii-2-0-turbo-2004,0.0,0.0,280.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-ix-mr-2-0-turbo-2006,0.0,0.0,290.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-ix-mr-2-0-turbo-2007,0.0,0.0,290.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-x-2-0-turbo-2010,0.0,0.0,295.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-at-2011,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-x-2-0-turbo-2011,0.0,0.0,295.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-2011,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-sportback-ralliart-2-0-turbo-2011,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-2012,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-at-2012,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-x-2-0-turbo-2012,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-x-carbon-2-0-turbo-2012,0.0,0.0,295.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-2012,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-sportback-ralliart-2-0-turbo-2012,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-2013,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-at-2013,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-x-2-0-turbo-2013,0.0,0.0,295.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-2013,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-awd-2013,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-sportback-ralliart-2-0-turbo-2013,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-2014,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-at-2014,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-x-2-0-turbo-2014,0.0,0.0,295.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-2014,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-awd-2014,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-2015,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-at-2015,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-x-2-0-turbo-2015,0.0,0.0,295.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-evolution-x-john-easton-2-0-turbo-2015,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-2015,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-awd-2015,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-2016,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-2016,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-hl-2-0-2016,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-hle-2-0-2016,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-hlt-2-0-2016,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-2017,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-2017,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-hl-2-0-2017,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-hle-2-0-2017,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-2-0-2018,0.0,0.0,160.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Lancer,lancer-gt-2-0-2018,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-hl-2-0-2018,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-hle-2-0-2018,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-hlt-2-0-2018,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-hl-2-0-2019,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Lancer,lancer-hlt-2-0-2019,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-3-0-v6-2008,0.0,0.0,220.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-4-2009,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-3-0-v6-2009,0.0,0.0,220.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-4-2010,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-gt-3-0-v6-2010,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-4-2011,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-gt-3-0-v6-2011,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-0-2012,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-gt-3-0-v6-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-0-2013,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-gt-3-0-v6-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-0-2014,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-gt-3-0-v6-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-phev-2-0-2014,0.0,0.0,121.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-0-2015,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-gt-3-0-v6-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-phev-2-0-2015,0.0,0.0,121.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-0-2016,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-3-turbodiesel-2016,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-gt-3-0-v6-2016,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-0-2017,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-3-turbodiesel-2017,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-gt-3-0-v6-2017,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-0-2018,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-2-3-turbodiesel-2018,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-comfort-2-0-2018,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-gt-3-0-v6-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-gls-2-0-2019,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-2-0-2019,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-s-2-3-turbodiesel-2019,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-s-3-0-v6-2019,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-2-0-2020,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-s-2-3-turbodiesel-2020,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-s-3-0-v6-2020,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-2-0-2021,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-s-2-3-turbodiesel-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-s-3-0-v6-2021,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-black-edition-3-0-v6-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-2-0-2022,0.0,0.0,160.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-s-2-3-turbodiesel-2022,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-s-3-0-v6-2022,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-hpe-s-2-4-phev-2026,0.0,0.0,137.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander,outlander-signature-2-4-phev-2026,0.0,0.0,137.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander Sport,outlander-sport-gls-2-0-4x2-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander Sport,outlander-sport-hpe-2-0-4x2-2021,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander Sport,outlander-sport-hpe-2-0-4x4-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander Sport,outlander-sport-hpe-2-0-4x4-2021-flex,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander Sport,outlander-sport-black-edition-2-0-4x2-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander Sport,outlander-sport-black-edition-2-0-4x4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander Sport,outlander-sport-gls-2-0-4x2-2022,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander Sport,outlander-sport-hpe-2-0-4x2-2022,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Outlander Sport,outlander-sport-hpe-2-0-4x4-2022,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero,pajero-3-2-turbo-2016,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero,pajero-hpe-3-2-turbo-2016,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero,pajero-hpe-3-5-v6-2016,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero,pajero-hpe-s-3-2-turbo-2016,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero,pajero-hpe-3-2-turbo-2017,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero,pajero-hpe-3-5-v6-2017,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero,pajero-outdoor-3-2-turbo-2017,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero,pajero-hd-s-3-2-turbo-2018,0.0,0.0,180.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero,pajero-hpe-3-2-turbo-2018,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero,pajero-hpe-3-5-v6-2018,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero,pajero-outdoor-3-2-turbo-2018,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-2009,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-at-2009,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-2010,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-at-2010,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-2011,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-at-2011,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-hpe-3-2-turbo-2011,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-hpe-3-5-v6-2011,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-2012,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-at-2012,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-hpe-3-2-turbo-2012,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-hpe-3-5-v6-2012,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-2013,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-at-2013,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-hpe-3-2-turbo-2013,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-hpe-3-5-v6-2013,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-2014,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-at-2014,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-hpe-3-2-turbo-2014,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-hpe-3-5-v6-2014,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-2015,0.0,0.0,165.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-3-2-turbo-at-2015,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-hpe-3-2-turbo-2015,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Dakar,pajero-dakar-hpe-3-5-v6-2015,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-glz-3-0-v6-1992,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1993,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1993-gasolina,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-glz-3-0-v6-1993,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-1994,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1994,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1994-gasolina,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-glx-2-8-1994,0.0,0.0,97.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-glz-3-0-v6-1994,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-1995,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1995,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1995-gasolina,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-glx-2-8-turbo-1995,0.0,0.0,97.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-glx-3-0-v6-1995,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-1996,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1996,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1996-gasolina,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-1997,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1997,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1997-gasolina,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-glx-3-0-v6-1997,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-1998,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-5-v6-1998,0.0,0.0,202.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-1999,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-1999-diesel,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-1999,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-5-v6-1999,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-5-v6-1999-gasolina,0.0,0.0,202.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-2000,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-2000-diesel,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-0-v6-2000,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-5-v6-2000,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-2001,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-5-v6-2001,0.0,0.0,202.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-5-v6-2001-gasolina,0.0,0.0,202.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-2-8-turbo-2002,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-2-turbo-2002,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-5-v6-2002,0.0,0.0,202.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-2-turbo-2003,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-5-v6-2003,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-2-turbo-2004,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-5-v6-2004,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2004,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2004,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2004-gasolina,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-2-turbo-2005,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2005,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2005,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-2-turbo-2006,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2006,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2006,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2006-gasolina,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-2-turbo-2007,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2007,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2007-diesel,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2007,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-2-turbo-2008,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-8-v6-2008,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2008,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2008-diesel,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2008,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2008-gasolina,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-2-turbo-2009,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-gls-3-8-v6-2009,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2009,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2009-diesel,0.0,0.0,165.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2009,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2009-gasolina,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2010,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2010-diesel,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2010,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2010-gasolina,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2011,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2011-diesel,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2011,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2011-gasolina,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2012,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2012-diesel,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2012,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2012-gasolina,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2013,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2013-diesel,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2013,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2013-gasolina,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2014,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2014-diesel,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2014,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2014-gasolina,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2015,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2015-diesel,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2015,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2015-gasolina,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2016,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2016-diesel,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2016,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2016-gasolina,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2017,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2017-diesel,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2017,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2017-gasolina,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2018,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2018-diesel,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2018,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2018-gasolina,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2019,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2019-diesel,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2019,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2020,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-2-turbo-2020-diesel,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-hpe-3-8-v6-2020,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Full,pajero-full-legend-edition-3-2-turbo-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Io,pajero-io-1-8-1999,0.0,0.0,117.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Io,pajero-io-1-8-at-1999,0.0,0.0,117.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Io,pajero-io-1-8-2000,0.0,0.0,117.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Io,pajero-io-1-8-at-2000,0.0,0.0,117.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Io,pajero-io-se-1-8-2001,0.0,0.0,117.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Io,pajero-io-se-1-8-at-2001,0.0,0.0,117.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x2-1998,0.0,0.0,177.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x2-at-1998,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x2-at-1999,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x4-1999,0.0,0.0,177.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x4-at-1999,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-2-8-turbo-4x4-2000,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-2-8-turbo-4x4-at-2000,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x4-at-2000,0.0,0.0,181.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-2-8-turbo-4x4-2001,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-2-8-turbo-4x4-at-2001,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x2-at-2001,0.0,0.0,181.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x4-at-2001,0.0,0.0,181.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-2-8-turbo-4x4-2002,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-2-8-turbo-4x4-at-2002,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x2-at-2002,0.0,0.0,181.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x4-at-2002,0.0,0.0,181.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-2-8-turbo-4x4-2003,0.0,0.0,125.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-2-8-turbo-4x4-at-2003,0.0,0.0,125.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-3-0-v6-4x4-at-2003,0.0,0.0,181.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-8-turbo-2004,0.0,0.0,145.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-3-0-v6-at-2004,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-8-turbo-2005,0.0,0.0,145.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-3-0-v6-at-2005,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-8-turbo-2006,0.0,0.0,145.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-5-turbo-4x4-2007,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-5-turbo-4x4-at-2007,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-3-5-v6-at-2007,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-5-turbo-4x4-2008,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-5-turbo-4x4-at-2008,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-3-5-v6-at-2008,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-5-turbo-4x4-2009,0.0,0.0,141.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-5-turbo-4x4-at-2009,0.0,0.0,141.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-3-5-v6-at-2009,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-5-turbo-4x4-2010,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-5-turbo-4x4-at-2010,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-3-5-v6-at-2010,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-5-turbo-4x4-2011,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-5-turbo-4x4-at-2011,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-3-5-v6-at-2011,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-4-turbo-2018,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-4-turbo-2019,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-4-turbo-2020,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-4-turbo-2021,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-s-2-4-turbo-2021,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-4-turbo-2022,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-s-2-4-turbo-2022,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-4-2023,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-s-2-4-2023,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-4-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-s-2-4-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-legend-2-4-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-legend-black-2-4-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-2-4-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-hpe-s-2-4-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-legend-2-4-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Sport,pajero-sport-legend-black-2-4-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2003,0.0,0.0,131.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2003,0.0,0.0,131.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2004,0.0,0.0,131.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2004,0.0,0.0,131.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2005,0.0,0.0,131.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2005,0.0,0.0,131.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2006,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2006,0.0,0.0,131.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2007,0.0,0.0,131.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2007,0.0,0.0,131.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2008,0.0,0.0,133.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2008,0.0,0.0,133.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2009,0.0,0.0,133.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2009,0.0,0.0,133.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2010,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2010,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2011,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2011,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x2-2012,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x2-at-2012,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2012,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2012,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x2-2013,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x2-at-2013,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2013,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x2-2014,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x2-at-2014,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2014,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x2-2015,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x2-at-2015,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-2015,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-2-0-4x4-at-2015,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Pajero Tr4,pajero-tr4-oneill-2-0-4x4-at-2015,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Space Wagon,space-wagon-glx-2-4-1995,0.0,0.0,138.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Space Wagon,space-wagon-glx-2-4-1997,0.0,0.0,138.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Space Wagon,space-wagon-glx-2-4-1998,0.0,0.0,138.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Space Wagon,space-wagon-glx-2-4-1999,0.0,0.0,127.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Space Wagon,space-wagon-glx-2-4-2000,0.0,0.0,127.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Space Wagon,space-wagon-glx-2-4-2001,0.0,0.0,127.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Space Wagon,space-wagon-glx-2-4-2002,0.0,0.0,127.0,5.0,Auto,Indefinido,Urbano
+mitsubishi,Space Wagon,space-wagon-glx-2-4-2003,0.0,0.0,127.0,5.0,Auto,Indefinido,Urbano

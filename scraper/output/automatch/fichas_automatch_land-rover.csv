@@ -1,0 +1,638 @@
+﻿marca,modelo,versao,preco_orcamento,ano,potencia_cv,lugares_grupo,cambio,categoria,ambiente_ideal
+land-rover,Defender,defender-110-sw-2-5-turbo-1996,0.0,0.0,11.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-sw-2-5-turbo-1997,0.0,0.0,113.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-sw-2-5-turbo-1997,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-sw-2-5-turbo-1998,0.0,0.0,111.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-sw-2-5-turbo-1998,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-sw-2-5-turbo-1999,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-sw-2-5-turbo-1999,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-hcpu-2-5-turbo-cs-2000,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-sw-2-5-turbo-2000,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-csw-2-5-turbo-2000,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-hcpu-2-5-turbo-cs-2001,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-sw-2-5-turbo-2001,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-130-2-5-turbo-cd-2001,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-sw-2-5-turbo-2001,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-sw-2-5-turbo-2002,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-sw-2-5-turbo-2003,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-csw-2-5-turbo-2003,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-hcpu-2-5-turbo-cs-2004,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-sw-2-5-turbo-2004,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-130-2-5-turbo-cd-2004,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-sw-2-5-turbo-2004,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-hcpu-2-5-turbo-cs-2005,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-sw-2-5-turbo-2005,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-130-2-5-turbo-cd-2005,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-hcpu-2-5-turbo-cs-2006,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-sw-2-5-turbo-2006,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-130-2-5-turbo-cd-2006,0.0,0.0,115.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-2-4-turbo-2007,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-2-4-turbo-2007,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-2-4-turbo-2008,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-130-2-4-turbo-cd-2008,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-2-4-turbo-2008,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-2-4-turbo-2009,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-130-2-4-turbo-cd-2009,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-2-4-turbo-2009,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-2-4-turbo-2010,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-fire-ice-2-4-turbo-2010,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-130-2-4-turbo-cd-2010,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-2-4-turbo-2010,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-fire-ice-2-4-turbo-2010,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-raw-2-4-turbo-2011,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-130-2-4-turbo-cd-2011,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-90-raw-2-4-turbo-2011,0.0,0.0,122.0,5.0,Manual,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-2-0-si4-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-s-2-0-si4-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-se-2-0-si4-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-2-0-si4-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-se-2-0-si4-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-2-0-si4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-oncafari-2-0-si4-2022,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-se-2-0-si4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-90-se-2-0-si4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-75th-limited-edition-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-x-dynamic-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-s-x-dynamic-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-se-x-dynamic-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-x-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-130-s-x-dynamic-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-130-x-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-90-hse-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-90-s-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-3-0-mhev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-x-dynamic-2-0-phev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-x-dynamic-3-0-mhev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-x-2-0-phev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-x-3-0-mhev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-130-outbound-3-0-mhev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-130-x-3-0-mhev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-90-hse-3-0-mhev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-x-dynamic-3-0-mhev-2025,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-x-3-0-mhev-2025,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-130-x-3-0-mhev-2025,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-90-hse-3-0-mhev-2025,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-hse-x-dynamic-3-0-mhev-2026,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-trophy-edition-3-0-mhev-2026,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-110-x-3-0-mhev-2026,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-130-x-3-0-mhev-2026,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Defender,defender-90-hse-x-dynamic-3-0-mhev-2026,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-2-5-turbo-1992,0.0,0.0,122.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-2-5-turbo-1993,0.0,0.0,122.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-2-5-turbo-1994,0.0,0.0,122.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-2-5-turbo-1995,0.0,0.0,122.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-2-5-turbo-1996,0.0,0.0,122.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-3-9-v8-1996,0.0,0.0,188.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-2-5-turbo-1997,0.0,0.0,122.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-3-9-v8-1997,0.0,0.0,188.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-td5-2-5-turbo-1999,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-4-0-v8-2000,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-td5-2-5-turbo-2000,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-4-0-v8-2001,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-td5-2-5-turbo-2001,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-4-0-v8-2002,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-td5-2-5-turbo-2002,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-4-0-v8-2003,0.0,0.0,185.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-td5-2-5-turbo-2003,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-4-6-v8-2004,0.0,0.0,220.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-td5-2-5-turbo-2004,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-2-7-v6-turbo-2005,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-4-4-v8-2005,0.0,0.0,299.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-4-0-v6-2005,0.0,0.0,215.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-2-7-v6-turbo-2006,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-4-0-v6-2006,0.0,0.0,215.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-4-4-v8-2007,0.0,0.0,299.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-2-7-v6-turbo-2007,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-4-0-v6-2007,0.0,0.0,215.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-4-4-v8-2008,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-2-7-v6-turbo-2008,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-4-0-v6-2008,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-4-4-v8-2009,0.0,0.0,299.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-4-0-v6-2009,0.0,0.0,215.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-2-7-v6-turbo-2009,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-2-7-v6-turbo-2010,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-turbo-2010,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-5-0-v8-2010,0.0,0.0,375.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-2-7-v6-turbo-2010,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-2-7-v6-turbo-2010,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-turbo-2010,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-black-white-3-0-v6-turbo-2011,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-turbo-2011,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-5-0-v8-2011,0.0,0.0,375.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-2-7-v6-turbo-2011,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-turbo-2011,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-turbo-2012,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-5-0-v8-2012,0.0,0.0,375.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-3-0-v6-turbo-2012,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-turbo-2012,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-turbo-2013,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-5-0-v8-2013,0.0,0.0,375.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-3-0-v6-turbo-2013,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-turbo-2013,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-turbo-2014,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-3-0-v6-turbo-2014,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-turbo-2014,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-turbo-2015,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-raw-3-0-tdv6-2015,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-3-0-v6-turbo-2015,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-turbo-2015,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-black-3-0-v6-turbo-2016,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-graphite-3-0-v6-turbo-2016,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-turbo-2016,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-3-0-v6-turbo-2016,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-turbo-2016,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-first-edition-3-0-v6-si6-2017,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-first-edition-3-0-v6-td6-2017,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-si6-2017,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-td6-2017,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-luxury-3-0-v6-si6-2017,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-luxury-3-0-v6-td6-2017,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-3-0-v6-si6-2017,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-3-0-v6-td6-2017,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-si6-2017,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-td6-2017,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-si6-2018,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-td6-2018,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-luxury-3-0-v6-si6-2018,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-luxury-3-0-v6-td6-2018,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-3-0-v6-si6-2018,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-s-3-0-v6-td6-2018,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-si6-2018,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-td6-2018,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-td6-2019,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-luxury-3-0-v6-td6-2019,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-td6-2019,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-v6-td6-2020,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-luxury-3-0-v6-td6-2020,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-v6-td6-2020,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-hse-3-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-se-3-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-metropolitan-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-r-dynamic-hse-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-r-dynamic-s-3-0-mhev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-metropolitan-3-0-mhev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-r-dynamic-hse-3-0-mhev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-metropolitan-3-0-mhev-2025,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-r-dynamic-hse-3-0-mhev-2025,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-metropolitan-3-0-mhev-2026,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery,discovery-tempest-3-0-mhev-2026,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-2-sd4-2015,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-black-2-2-sd4-2016,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-si4-2016,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-td4-2016,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-2-sd4-2016,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-0-si4-2016,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-0-td4-2016,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-2-sd4-2016,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-si4-2016,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-td4-2016,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-2-sd4-2016,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-si4-2017,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-td4-2017,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-2-sd4-2017,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-0-si4-2017,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-0-td4-2017,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-2-sd4-2017,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-si4-2017,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-td4-2017,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-sd4-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-si4-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-td4-2018,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-0-si4-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-si4-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-td4-2018,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-sd4-2019,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-si4-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-si4-2019-gasolina,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-2-0-td4-2019,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-0-si4-2019-flex,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-hse-luxury-2-0-si4-2019,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-landmark-2-0-td4-2019,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-si4-2019,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-si4-2019-gasolina,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-td4-2019,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-r-dynamic-se-2-0-si4-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-r-dynamic-se-2-0-td4-2020,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-s-2-0-si4-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-s-2-0-td4-2020,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-si4-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-td4-2020,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-henrique-avancini-2-0-si4-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-r-dynamic-se-2-0-d200-2021,0.0,0.0,199.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-r-dynamic-se-2-0-si4-2021,0.0,0.0,249.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-s-2-0-d200-2021,0.0,0.0,199.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-s-2-0-si4-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-d200-2021,0.0,0.0,199.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-si4-2021,0.0,0.0,249.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-r-dynamic-se-2-0-d200-2022,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-r-dynamic-se-2-0-si4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-s-2-0-d200-2022,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-s-2-0-si4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-d200-2022,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-si4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-r-dynamic-se-2-0-mhev-2023,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-r-dynamic-se-2-0-si4-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-s-2-0-mhev-2023,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-s-2-0-si4-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-mhev-2023,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-2-0-si4-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-r-dynamic-se-2-0-mhev-2024,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-dynamic-2-0-mhev-2024,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-dynamic-2-0-si4-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-dynamic-2-0-mhev-2025,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-se-dynamic-2-0-si4-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Discovery Sport,discovery-sport-landmark-2-0-si4-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-dynamic-2-0-si4-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-dynamic-tech-2-0-si4-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-pure-2-0-si4-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-pure-tech-2-0-si4-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-dynamic-2-0-si4-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-dynamic-tech-2-0-si4-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-2-0-si4-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-tech-2-0-si4-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-pure-2-0-si4-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-pure-tech-2-0-si4-2012,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-dynamic-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-dynamic-tech-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-pure-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-pure-tech-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-dynamic-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-dynamic-tech-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-tech-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-pure-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-pure-tech-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-dynamic-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-dynamic-tech-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-dynamic-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-dynamic-tech-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-2-2-sd4-2014,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-tech-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-pure-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-pure-tech-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-dynamic-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-coupe-dynamic-tech-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-dynamic-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-dynamic-black-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-dynamic-tech-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-london-edition-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-2-2-sd4-2015,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-tech-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-prestige-tech-2-2-sd4-2015,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-pure-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-pure-tech-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-style-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-2-0-td4-2016,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-2-2-sd4-2016,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-dynamic-2-0-si4-2016,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-0-si4-2016,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-2-sd4-2016,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-dynamic-2-0-si4-2016,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-conversivel-hse-dynamic-2-0-si4-2017,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-dynamic-2-0-si4-2017,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-0-si4-2017,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-0-td4-2017-diesel,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-0-td4-2017,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-dynamic-2-0-si4-2017,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-autobiography-2-0-si4-2018,0.0,0.0,290.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-conversivel-hse-dynamic-2-0-si4-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-dynamic-2-0-sd4-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-dynamic-2-0-si4-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-0-si4-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-0-td4-2018,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-dynamic-2-0-sd4-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-dynamic-2-0-si4-2018,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-dynamic-2-0-sd4-2019,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-dynamic-2-0-si4-2019,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-0-si4-2019,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-0-td4-2019,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-r-dynamic-2-0-si4-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-r-dynamic-black-2-0-si4-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-r-dynamic-2-0-si4-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-r-dynamic-2-0-si4-2021,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-r-dynamic-2-0-si4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-0-si4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-r-dynamic-2-0-si4-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-se-2-0-si4-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-dynamic-2-0-si4-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-hse-dynamic-2-0-si4-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Evoque,evoque-autobiography-2-0-si4-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-5-v6-2003,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-5-v6-2003-gasolina,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-5-v6-2003,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-5-v6-2004,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-5-v6-2004-gasolina,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-5-v6-2004-gasolina,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-5-v6-2004,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-5-v6-2005,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-5-v6-2005-gasolina,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-5-v6-2005,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-5-v6-2005-gasolina,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-5-v6-2006,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-3-2-2007,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-3-2-2007,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-3-2-2007,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-3-2-2008,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-3-2-2008,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-3-2-2008,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-3-2-2009,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-3-2-2009,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-3-2-2009,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-3-2-2010,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-3-2-2010,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-sport-3-2-2010,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-3-2-2010,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-2-sd4-2011,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-3-2-2011,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-le-sport-3-2-2011,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-2-2-sd4-2011,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-3-2-2011,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-sport-3-2-2011,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-2-sd4-2011,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-3-2-2011,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-dynamic-2-2-sd4-2012,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-2-sd4-2012,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-3-2-2012,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-2-2-sd4-2012,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-3-2-2012,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-2-sd4-2012,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-3-2-2012,0.0,0.0,233.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-dynamic-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-dynamic-2-2-sd4-2013,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-2-sd4-2013,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-2-2-sd4-2013,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-0-si4-2013,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-2-sd4-2013,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-dynamic-2-2-sd4-2014,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-2-sd4-2014,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-2-2-sd4-2014,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-0-si4-2014,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-2-sd4-2014,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-hse-2-2-sd4-2015,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-s-2-2-sd4-2015,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-0-si4-2015,0.0,0.0,240.0,5.0,Auto,Indefinido,Urbano
+land-rover,Freelander,freelander-se-2-2-sd4-2015,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-hse-4-6-v8-1996,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-hse-4-6-v8-1997,0.0,0.0,225.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-hse-4-6-v8-1998,0.0,0.0,225.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-hse-4-6-v8-1999,0.0,0.0,225.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-hse-4-4-v8-2003,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-hse-4-4-v8-2004,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-hse-4-4-v8-2005,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-supercharged-4-2-v8-2005,0.0,0.0,396.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-supercharged-4-2-v8-2006,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-supercharged-4-2-v8-2007,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-6-v8-2007,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-supercharged-4-2-v8-2008,0.0,0.0,396.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-6-v8-2008,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-supercharged-4-2-v8-2009,0.0,0.0,396.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-6-v8-2009,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-6-v8-2010,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-5-0-v8-2010,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-4-4-v8-2011,0.0,0.0,313.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-5-0-v8-2011,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-4-4-v8-2012,0.0,0.0,313.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-5-0-v8-2012,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-4-4-v8-2013,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-5-0-v8-2013,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-4-4-v8-2013,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-5-0-v8-2013,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-4-4-v8-2014,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-5-0-v8-2014,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-0-v6-2014,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-hse-3-0-v6-2014,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-4-4-v8-2014,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-5-0-v8-2014,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-4-4-v8-2015,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-5-0-v8-2015,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-black-lwb-5-0-v8-2015,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-0-v6-2015,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-4-4-v8-2015,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-5-0-v8-2015,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-4-4-v8-2016,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-5-0-v8-2016,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-lwb-4-4-v8-2016,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-lwb-5-0-v8-2016,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-black-3-0-v6-2016,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-autobiography-dynamic-5-0-v8-2016,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-autobiography-lwb-5-0-v8-2016,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-0-v6-2016,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-4-4-v8-2016,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-4-4-v8-2017,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-5-0-v8-2017,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-lwb-4-4-v8-2017,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-lwb-5-0-v8-2017,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-autobiography-dynamic-5-0-v8-2017,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-autobiography-lwb-5-0-v8-2017,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-0-v6-2017,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-4-4-v8-2017,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-4-4-v8-2018,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-5-0-v8-2018,0.0,0.0,525.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-0-v6-2018,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-4-4-v8-2018,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-4-4-v8-2019,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-5-0-v8-2019,0.0,0.0,525.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-autobiography-lwb-5-0-v8-2019,0.0,0.0,565.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-0-v6-2019,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-4-4-v8-2019,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-2-0-phev-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-4-4-v8-2020,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-dynamic-5-0-v8-2020,0.0,0.0,565.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-autobiography-lwb-5-0-v8-2020,0.0,0.0,565.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-0-v6-2020,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-2-0-phev-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-4-4-v8-2020,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-2-0-phev-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-4-4-v8-2021,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-dynamic-5-0-v8-2021,0.0,0.0,565.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-autobiography-lwb-5-0-v8-2021,0.0,0.0,565.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-3-0-v6-2021,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-2-0-phev-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-vogue-se-4-4-v8-2021,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-3-0-mhev-2023,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-3-0-phev-2023,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-4-4-v8-2023,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-first-edition-3-0-mhev-2023-diesel,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-first-edition-3-0-mhev-2023,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-first-edition-4-4-v8-2023-gasolina,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-first-edition-4-4-v8-2023,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-hse-3-0-phev-2023,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-se-3-0-mhev-2023,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-se-3-0-phev-2023,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-se-4-4-v8-2023,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-3-0-mhev-2023,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-4-4-v8-2023,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-3-0-mhev-2024,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-3-0-mhev-2024,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-autobiography-3-0-phev-2025,0.0,0.0,400.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover,range-rover-sv-3-0-phev-2025,0.0,0.0,400.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-4-4-v8-2005,0.0,0.0,299.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-2-7-v6-2006,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-4-4-v8-2006,0.0,0.0,299.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-supercharged-4-2-v8-2006,0.0,0.0,390.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-2-7-v6-2007,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-6-v8-2007,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-4-4-v8-2007,0.0,0.0,299.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-2-7-v6-2007,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-4-4-v8-2007,0.0,0.0,299.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-supercharged-4-2-v8-2007,0.0,0.0,390.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-6-v8-2008,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-2-7-v6-2008,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-6-v8-2008,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-4-4-v8-2008,0.0,0.0,299.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-supercharged-4-2-v8-2008,0.0,0.0,390.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-6-v8-2009,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-2-7-v6-2009,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-6-v8-2009,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-supercharged-4-2-v8-2009,0.0,0.0,390.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2010,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-6-v8-2010,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-supercharged-5-0-v8-2010,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2010,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-6-v8-2010,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2011,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-6-v8-2011,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-supercharged-5-0-v8-2011,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2011,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-6-v8-2011,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2012,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-supercharged-5-0-v8-2012,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2012,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-autobiography-3-0-v6-2013,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2013,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-supercharged-5-0-v8-2013,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2013,0.0,0.0,256.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-autobiography-3-0-v6-2014,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-autobiography-5-0-v8-2014,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2014,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2014-diesel,0.0,0.0,292.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-5-0-v8-2014,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2014,0.0,0.0,292.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-autobiography-5-0-v8-2015,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2015,0.0,0.0,292.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2015-gasolina,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-5-0-v8-2015,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2015,0.0,0.0,292.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-svr-5-0-v8-2015,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-tech-s-3-0-v6-2015,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-3-0-v6-2016,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-autobiography-5-0-v8-2016,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2016,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2016-gasolina,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-4-4-v8-2016,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-4-4-v8-2016-diesel,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-5-0-v8-2016,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hst-3-0-v6-2016,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2016,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-svr-5-0-v8-2016,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-autobiography-dynamic-3-0-v6-2017,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2017,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-3-0-v6-2017,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-4-4-v8-2017,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-5-0-v8-2017,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-s-3-0-v6-2017,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2017,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2017-diesel,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-svr-5-0-v8-2017,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2018,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-3-0-v6-2018,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-4-4-v8-2018,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2018,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-svr-5-0-v8-2018,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2019,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-3-0-v6-2019,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-4-4-v8-2019,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2019,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-svr-5-0-v8-2019,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-2-0-phev-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2020,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-2-0-phev-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-3-0-v6-2020,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-4-4-v8-2020,0.0,0.0,339.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2020,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-svr-5-0-v8-2020,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-2-0-phev-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-v6-2021,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-2-0-phev-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-3-0-v6-2021,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-black-2-0-phev-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-black-3-0-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-2021,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-v6-2021,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-svr-5-0-v8-2021,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-2-0-phev-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-mhev-2022,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-black-2-0-phev-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-dynamic-black-3-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-mhev-2022,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-svr-5-0-v8-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-svr-carbon-edition-5-0-v8-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-dynamic-hse-3-0-mhev-2023,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-dynamic-hse-3-0-phev-2023,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-first-edition-3-0-mhev-2023,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-first-edition-3-0-phev-2023,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-first-edition-4-4-v8-2023,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-hse-3-0-mhev-2023,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-se-3-0-mhev-2023,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-autobiography-3-0-mhev-2024,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-dynamic-hse-3-0-mhev-2024,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-autobiography-3-0-mhev-2025,0.0,0.0,350.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-autobiography-3-0-phev-2025,0.0,0.0,400.0,5.0,Auto,Indefinido,Urbano
+land-rover,Range Rover Sport,range-rover-sport-dynamic-hse-3-0-phev-2025,0.0,0.0,400.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-2-0-si4-2018,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-3-0-v6-2018,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-hse-2-0-si4-2018,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-hse-3-0-v6-2018,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-2-0-si4-2018,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-3-0-v6-2018,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-first-edition-3-0-v6-2018,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-2-0-si4-2018,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-3-0-v6-2018,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-s-2-0-si4-2018,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-s-3-0-v6-2018,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-se-2-0-si4-2018,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-se-3-0-v6-2018,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-s-2-0-si4-2018,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-s-3-0-v6-2018,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-se-2-0-si4-2018,0.0,0.0,250.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-se-3-0-v6-2018,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-2-0-si4-2019,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-3-0-v6-2019,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-s-2-0-si4-2019,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-s-3-0-v6-2019,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-se-2-0-si4-2019,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-se-3-0-v6-2019,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-s-2-0-si4-2019,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-3-0-v6-2020,0.0,0.0,380.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-se-2-0-si4-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-se-2-0-si4-2020-gasolina,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-s-2-0-si4-2020,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-svautobiography-dynamic-5-0-v8-2020-gasolina,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-svautobiography-dynamic-5-0-v8-2020,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-3-0-2021,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-se-3-0-2021,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-3-0-2022,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-se-3-0-2022,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-2-0-phev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-3-0-2023,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-s-2-0-phev-2023,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-2-0-phev-2024,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-3-0-2024,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-r-dynamic-hse-2-0-phev-2025,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+land-rover,Velar,velar-autobiography-2-0-phev-2026,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano

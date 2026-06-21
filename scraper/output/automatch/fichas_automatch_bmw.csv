@@ -1,0 +1,924 @@
+﻿marca,modelo,versao,preco_orcamento,ano,potencia_cv,lugares_grupo,cambio,categoria,ambiente_ideal
+bmw,116i,116i-1-6-turbo-2012,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,116i,116i-1-6-turbo-2013,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,116i,116i-1-6-turbo-2014,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,116i,116i-1-6-turbo-2015,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-2-0-at-2010,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-2-0-at-2011,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-2-0-at-2011-gasolina,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-1-6-turbo-2012,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-2-0-at-2012,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-2-0-at-2012-gasolina,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-1-6-turbo-2013,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-1-6-turbo-2014,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-1-6-turbo-2015,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-sport-gp-1-5-2020,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-sport-gp-1-5-2021,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-sport-gp-1-5-2022,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-m-sport-1-5-2023,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-sport-gp-1-5-2023,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-m-sport-1-5-2024,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,118i,118i-sport-gp-1-5-2024,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2005,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-2006,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2006,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2007,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-2008,0.0,0.0,156.0,5.0,Manual,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2008,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2009,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2009-gasolina,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2010,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2011,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2012,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2015,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-2-0-at-2016,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-sport-2-0-2019,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,120i,120i-sport-gp-2-0-2019,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,120i Cabriolet,120i-cabriolet-2-0-at-2009,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,120i Cabriolet,120i-cabriolet-2-0-at-2010,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,120i Cabriolet,120i-cabriolet-2-0-at-2011,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,120i Cabriolet,120i-cabriolet-2-0-at-2012,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,125i,125i-m-sport-2-0-2013,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,125i,125i-m-sport-2-0-2014,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,125i,125i-m-sport-2-0-2015,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,125i,125i-m-sport-2-0-2016,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,125i,125i-m-sport-2-0-2019,0.0,0.0,224.0,5.0,Auto,Indefinido,Urbano
+bmw,130i,130i-3-0-2006,0.0,0.0,265.0,5.0,Manual,Indefinido,Urbano
+bmw,130i,130i-3-0-2008,0.0,0.0,265.0,5.0,Manual,Indefinido,Urbano
+bmw,130i,130i-3-0-2009,0.0,0.0,265.0,5.0,Auto,Indefinido,Urbano
+bmw,130i,130i-3-0-2010,0.0,0.0,265.0,5.0,Auto,Indefinido,Urbano
+bmw,130i,130i-3-0-2011,0.0,0.0,265.0,5.0,Auto,Indefinido,Urbano
+bmw,130i,130i-3-0-2012,0.0,0.0,265.0,5.0,Auto,Indefinido,Urbano
+bmw,135i,135i-m-3-0-turbo-2013,0.0,0.0,320.0,5.0,Auto,Indefinido,Urbano
+bmw,135i,135i-m-3-0-turbo-2014,0.0,0.0,320.0,5.0,Auto,Indefinido,Urbano
+bmw,135i,135i-m-3-0-turbo-2015,0.0,0.0,320.0,5.0,Auto,Indefinido,Urbano
+bmw,135i,135i-m-3-0-turbo-2016,0.0,0.0,320.0,5.0,Auto,Indefinido,Urbano
+bmw,135i,135i-m-xdrive-2-0-2020,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,135i,135i-m-xdrive-2-0-2021,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,135i,135i-m-xdrive-dark-edition-2-0-2021,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,135i,135i-m-xdrive-2-0-2022,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,135i Coupe,135i-coupe-3-0-turbo-2010,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,135i Coupe,135i-coupe-3-0-turbo-2011,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,135i Coupe,135i-coupe-3-0-turbo-2012,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,140i,140i-m-3-0-turbo-2017,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,140i,140i-m-3-0-turbo-2018,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,140i,140i-m-3-0-turbo-2019,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,218i,218i-gran-coupe-sport-gp-1-5-2020,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,218i,218i-gran-coupe-sport-gp-1-5-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,218i,218i-gran-coupe-sport-gp-1-5-2022,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,218i,218i-gran-coupe-sport-gp-1-5-2023,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,218i,218i-gran-coupe-m-sport-1-5-2024,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,218i,218i-gran-coupe-sport-gp-1-5-2024,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,220i Active Tourer,220i-active-tourer-2-0-turbo-2016,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,220i Active Tourer,220i-active-tourer-2-0-turbo-2017,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,220i Active Tourer,220i-active-tourer-2-0-turbo-2018,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,225i Active Tourer,225i-active-tourer-2-0-turbo-2015,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,225i Active Tourer,225i-active-tourer-2-0-turbo-2016,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,235i,235i-gran-coupe-m-xdrive-2-0-2020,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,235i,235i-gran-coupe-m-xdrive-2-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,235i,235i-gran-coupe-m-xdrive-dark-edition-2-0-2021,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,235i,235i-gran-coupe-m-xdrive-2-0-2022,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,235i,235i-gran-coupe-m-xdrive-2-0-2026,0.0,0.0,317.0,5.0,Auto,Indefinido,Urbano
+bmw,235i Coupe,235i-coupe-m-3-0-turbo-2014,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+bmw,235i Coupe,235i-coupe-m-3-0-turbo-2015,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+bmw,235i Coupe,235i-coupe-m-3-0-turbo-2016,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+bmw,240i,240i-m-3-0-turbo-2017,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,240i,240i-m-3-0-turbo-2018,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,316i,316i-1-6-1995,0.0,0.0,102.0,5.0,Manual,Indefinido,Urbano
+bmw,316i,316i-1-6-turbo-2014,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,316i,316i-1-6-turbo-2015,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,318i,318i-1-8-1991,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
+bmw,318i,318i-1-8-1992,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+bmw,318i,318i-1-8-1993,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
+bmw,318i,318i-1-8-1994,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
+bmw,318i,318i-1-8-1995,0.0,0.0,116.0,5.0,Manual,Indefinido,Urbano
+bmw,318i,318i-2-0-2011,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,318i,318i-2-0-2012,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,318i Cabriolet,318i-cabriolet-1-8-1994,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
+bmw,318i Cabriolet,318i-cabriolet-1-8-1995,0.0,0.0,116.0,5.0,Auto,Indefinido,Urbano
+bmw,318ti,318ti-compact-1-8-1995,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+bmw,318ti,318ti-compact-1-8-at-1995,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,318ti,318ti-compact-1-8-1996,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+bmw,318ti,318ti-compact-1-8-1997,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+bmw,318ti,318ti-compact-1-8-at-1997,0.0,0.0,140.0,5.0,Auto,Indefinido,Urbano
+bmw,318ti,318ti-compact-1-8-1998,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+bmw,320i,320i-2-2-2001,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-2-2002,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-2-2003,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-2-2004,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-2005,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-2006,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-2007,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-2008,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-2009,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-2010,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-2011,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-2012,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-turbo-2013,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-2-0-turbo-2013,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-turbo-2014,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-2-0-turbo-2014,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-2-0-turbo-2015,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-turbo-2015,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-2-0-turbo-2015,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-turbo-2016,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-2-0-turbo-2016,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-turbo-2017,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-2-0-turbo-2017,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-turbo-2018,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-2-0-turbo-2018,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-gp-2-0-turbo-2018,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-2-0-turbo-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-gp-2-0-turbo-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-turbo-2020,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-5-years-edition-2-0-turbo-2020,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-2-0-turbo-2020,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-gp-2-0-turbo-2020,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-gp-2-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-gp-2-0-turbo-2021,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-turbo-2021,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-gp-2-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-gp-2-0-turbo-2021,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-gp-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-gp-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-gp-2-0-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-gp-2-0-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-gp-2-0-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-gp-2-0-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-gp-2-0-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-10th-anniversary-edition-2-0-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-gp-2-0-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-gp-2-0-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-m-sport-2-0-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i,320i-sport-gp-2-0-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,320i Gt,320i-gt-sport-2-0-turbo-2014,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i Gt,320i-gt-sport-2-0-turbo-2015,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i Gt,320i-gt-sport-2-0-turbo-2016,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,320i Gt,320i-gt-sport-2-0-turbo-2017,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,323i,323i-2-5-1998,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,323i,323i-2-5-1999,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,323i,323i-2-5-2000,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,323i,323i-2-5-2001,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,323i Coupe,323i-coupe-2-5-1999,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,323i Coupe,323i-coupe-2-5-2000,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+bmw,323ti,323ti-compact-2-5-1998,0.0,0.0,170.0,5.0,Manual,Indefinido,Urbano
+bmw,323ti,323ti-compact-2-5-1999,0.0,0.0,170.0,5.0,Manual,Indefinido,Urbano
+bmw,323ti,323ti-compact-2-5-2000,0.0,0.0,170.0,5.0,Manual,Indefinido,Urbano
+bmw,325i,325i-2-5-1991,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-1992,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-1993,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-1994,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-1995,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-1996,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-2001,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-2002,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-2003,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-2004,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-2005,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-2006,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-2-5-2007,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-3-0-2008,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-3-0-2009,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-3-0-2010,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-3-0-2011,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i,325i-3-0-2012,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i Cabriolet,325i-cabriolet-2-5-1993,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
+bmw,325i Cabriolet,325i-cabriolet-2-5-1994,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
+bmw,325i Cabriolet,325i-cabriolet-2-5-1995,0.0,0.0,192.0,5.0,Manual,Indefinido,Urbano
+bmw,325i Coupe,325i-coupe-2-5-2001,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i Coupe,325i-coupe-2-5-2002,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,325i Coupe,325i-coupe-3-0-2008,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i Coupe,325i-coupe-3-0-2009,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i Coupe,325i-coupe-3-0-2010,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i Touring,325i-touring-2-5-2006,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i Touring,325i-touring-2-5-2007,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i Touring,325i-touring-2-5-2008,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,325i Touring,325i-touring-2-5-2009,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-2-8-1996,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-2-8-1997,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-2-8-1999,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-2-8-2000,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-2-0-turbo-2012,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-2-0-turbo-2013,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-plus-2-0-2013,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-sport-2-0-turbo-2013,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-2-0-turbo-2014,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-sport-2-0-turbo-2014,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-m-sport-2-0-turbo-2015,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-sport-2-0-turbo-2015,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-m-sport-2-0-turbo-2016,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-sport-2-0-turbo-2016,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-m-sport-2-0-turbo-2017,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-sport-2-0-turbo-2017,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-m-sport-2-0-turbo-2018,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i,328i-sport-2-0-2018,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,328i Cabriolet,328i-cabriolet-2-8-1996,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,328i Cabriolet,328i-cabriolet-2-8-1997,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,328i Cabriolet,328i-cabriolet-2-8-1998,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,328i Gt,328i-gt-m-sport-2-0-turbo-2014,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i Gt,328i-gt-m-sport-2-0-turbo-2015,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i Gt,328i-gt-m-sport-2-0-turbo-2016,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,328i Touring,328i-touring-2-8-1996,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,328i Touring,328i-touring-2-8-1996-gasolina,0.0,0.0,193.0,5.0,Manual,Indefinido,Urbano
+bmw,328i Touring,328i-touring-2-8-1997,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,328i Touring,328i-touring-2-8-1998,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,328i Touring,328i-touring-2-8-1998-gasolina,0.0,0.0,193.0,5.0,Manual,Indefinido,Urbano
+bmw,330e,330e-m-sport-2-0-turbo-2020,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,330e,330e-m-sport-2-0-turbo-2021,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,330e,330e-m-sport-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,330e,330e-m-sport-2-0-2023,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,330e,330e-m-sport-2-0-2024,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,330e,330e-m-sport-2-0-2025,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,330e,330e-m-sport-2-0-2026,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-3-0-2001,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-3-0-2002,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-3-0-2003,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-3-0-2004,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-3-0-2005,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-3-0-2006,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-3-0-2007,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-m-sport-2-0-turbo-2019,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-m-sport-2-0-turbo-2020,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-sport-2-0-2020,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-sport-2-0-turbo-2020,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,330i,330i-m-sport-2-0-turbo-2021,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,330i Cabriolet,330i-cabriolet-3-0-2001,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,330i Cabriolet,330i-cabriolet-3-0-2002,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,330i Cabriolet,330i-cabriolet-3-0-2003,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,330i Cabriolet,330i-cabriolet-3-0-2005,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,335i,335i-3-0-2007,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i,335i-3-0-2008,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i,335i-3-0-2009,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i,335i-3-0-2010,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i,335i-3-0-2011,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i,335i-sport-3-0-2012,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i,335i-sport-3-0-2013,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i,335i-m-sport-3-0-2014,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i,335i-m-sport-3-0-2015,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i Cabriolet,335i-cabriolet-3-0-2008,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i Cabriolet,335i-cabriolet-3-0-2009,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i Cabriolet,335i-cabriolet-3-0-2010,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i Cabriolet,335i-cabriolet-3-0-2011,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,335i Cabriolet,335i-cabriolet-3-0-2012,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,340i,340i-m-xdrive-first-edition-3-0-turbo-2020,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,340i,340i-m-xdrive-3-0-turbo-2021,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,340i,340i-m-xdrive-3-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,420i Cabriolet,420i-cabriolet-sport-gp-2-0-turbo-2015,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,420i Cabriolet,420i-cabriolet-sport-gp-2-0-turbo-2016,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,420i Cabriolet,420i-cabriolet-m-sport-2-0-turbo-2022,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,420i Cabriolet,420i-cabriolet-m-sport-2-0-2023,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,420i Cabriolet,420i-cabriolet-m-sport-2-0-2024,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,420i Cabriolet,420i-cabriolet-m-sport-2-0-2025,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,420i Cabriolet,420i-cabriolet-m-sport-2-0-2026,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,428i,428i-m-sport-2-0-turbo-2015,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,428i,428i-sport-2-0-turbo-2015,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,428i,428i-m-sport-2-0-turbo-2016,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,428i Cabriolet,428i-cabriolet-sport-gp-2-0-turbo-2014,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,428i Cabriolet,428i-cabriolet-sport-gp-2-0-turbo-2015,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,428i Cabriolet,428i-cabriolet-sport-gp-2-0-turbo-2016,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,430i Cabriolet,430i-cabriolet-limited-edition-2-0-turbo-2017,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,430i Cabriolet,430i-cabriolet-sport-2-0-turbo-2017,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,430i Cabriolet,430i-cabriolet-sport-2-0-turbo-2018,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,430i Cabriolet,430i-cabriolet-sport-2-0-turbo-2020,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,430i Cabriolet,430i-cabriolet-m-sport-2-0-turbo-2021,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,430i Cabriolet,430i-cabriolet-m-sport-2-0-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,435i,435i-coupe-3-0-turbo-2014,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,435i,435i-coupe-3-0-turbo-2015,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,525i,525i-2-5-1991,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,525i,525i-2-5-1993,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,525i,525i-2-5-1995,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,525i,525i-2-5-2001,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-2-8-1996,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-2-8-1997,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-2-8-1998,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-2-8-1999,0.0,0.0,193.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-2-0-turbo-2012,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-2-0-turbo-2013,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-m-sport-2-0-turbo-2013,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-2-0-turbo-2014,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-m-sport-2-0-turbo-2014,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-2-0-turbo-2015,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,528i,528i-2-0-turbo-2016,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-m-sport-2-0-turbo-2019,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-m-sport-2-0-turbo-2020,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-m-sport-2-0-2021,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-m-sport-dark-edition-2-0-2021,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-m-sport-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-luxury-2-0-2023,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-m-sport-2-0-2023,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-m-sport-dark-edition-2-0-2023,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-m-sport-2-0-2024,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-m-sport-2-0-2025,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+bmw,530e,530e-m-sport-2-0-2026,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-3-0-2001,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-3-0-2004,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-3-0-2005,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-3-0-2006,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-3-0-2007,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-3-0-2008,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-3-0-2009,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-3-0-2010,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-m-sport-2-0-turbo-2017,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-m-sport-2-0-turbo-2018,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,530i,530i-m-sport-2-0-turbo-2019,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,535i,535i-3-4-1991,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+bmw,535i,535i-3-4-1993,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+bmw,535i,535i-3-0-turbo-2010,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,535i,535i-3-0-turbo-2011,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,535i,535i-3-0-turbo-2012,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,535i,535i-3-0-turbo-2013,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,535i,535i-m-sport-3-0-2013,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,535i,535i-m-sport-3-0-biturbo-2014,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,535i,535i-m-sport-3-0-biturbo-2015,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,535i,535i-m-sport-3-0-biturbo-2016,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,535i Gt,535i-gt-3-0-turbo-2010,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,535i Gt,535i-gt-3-0-turbo-2011,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,535i Gt,535i-gt-3-0-turbo-2012,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-0-v8-1993,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-0-v8-1994,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-0-v8-1995,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-4-v8-1996,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-4-v8-1997,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-4-v8-1998,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-4-v8-1999,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-4-v8-2000,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-4-v8-2001,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-4-v8-2002,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-4-4-v8-2003,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-m-sport-3-0-biturbo-2017,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-m-sport-3-0-biturbo-2018,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-m-sport-3-0-biturbo-2019,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,540i,540i-m-sport-3-0-biturbo-2020,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,540i Touring,540i-touring-4-4-v8-1998,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,540i Touring,540i-touring-4-4-v8-1999,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,545i,545i-4-4-v8-2004,0.0,0.0,333.0,5.0,Auto,Indefinido,Urbano
+bmw,545i,545i-4-4-v8-2005,0.0,0.0,333.0,5.0,Auto,Indefinido,Urbano
+bmw,545i,545i-4-4-v8-2006,0.0,0.0,333.0,5.0,Auto,Indefinido,Urbano
+bmw,550i,550i-4-8-v8-2006,0.0,0.0,367.0,5.0,Auto,Indefinido,Urbano
+bmw,550i,550i-4-8-v8-2007,0.0,0.0,367.0,5.0,Auto,Indefinido,Urbano
+bmw,550i,550i-4-8-v8-2008,0.0,0.0,367.0,5.0,Auto,Indefinido,Urbano
+bmw,550i,550i-4-8-v8-2009,0.0,0.0,367.0,5.0,Auto,Indefinido,Urbano
+bmw,550i,550i-4-4-v8-2010,0.0,0.0,405.0,5.0,Auto,Indefinido,Urbano
+bmw,550i,550i-limited-sport-edition-4-8-v8-2010,0.0,0.0,367.0,5.0,Auto,Indefinido,Urbano
+bmw,550i,550i-4-4-v8-2011,0.0,0.0,405.0,5.0,Auto,Indefinido,Urbano
+bmw,550i,550i-4-4-v8-2012,0.0,0.0,405.0,5.0,Auto,Indefinido,Urbano
+bmw,640i,640i-gran-coupe-3-0-turbo-2013,0.0,0.0,320.0,5.0,Auto,Indefinido,Urbano
+bmw,640i,640i-gran-coupe-3-0-turbo-2014,0.0,0.0,320.0,5.0,Auto,Indefinido,Urbano
+bmw,640i,640i-gran-coupe-3-0-turbo-2015,0.0,0.0,320.0,5.0,Auto,Indefinido,Urbano
+bmw,640i,640i-gran-coupe-3-0-2016,0.0,0.0,320.0,5.0,Auto,Indefinido,Urbano
+bmw,650i,650i-gran-coupe-4-4-v8-biturbo-2013,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,650i,650i-gran-coupe-4-4-v8-biturbo-2014,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,650i,650i-gran-coupe-4-4-v8-biturbo-2015,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,650i,650i-gran-coupe-4-4-v8-biturbo-2016,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,650i Coupe,650i-coupe-4-8-v8-2010,0.0,0.0,367.0,5.0,Auto,Indefinido,Urbano
+bmw,650i Coupe,650i-coupe-4-4-v8-biturbo-2012,0.0,0.0,407.0,5.0,Auto,Indefinido,Urbano
+bmw,740i,740i-4-4-v8-1996,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,740i,740i-4-4-v8-1997,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,740i,740i-4-4-v8-1998,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,740i,740i-4-4-v8-1999,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,740i,740i-4-4-v8-2000,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,740i,740i-4-4-v8-2001,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,745e,745e-l-m-sport-3-0-2020,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,745e,745e-l-m-sport-3-0-2021,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,745e,745e-l-m-sport-dark-edition-3-0-2021,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,745e,745e-l-m-sport-3-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,745i,745i-4-4-v8-2002,0.0,0.0,333.0,5.0,Auto,Indefinido,Urbano
+bmw,745i,745i-4-4-v8-2003,0.0,0.0,333.0,5.0,Auto,Indefinido,Urbano
+bmw,745i,745i-4-4-v8-2004,0.0,0.0,333.0,5.0,Auto,Indefinido,Urbano
+bmw,745i,745i-4-4-v8-2005,0.0,0.0,333.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-5-4-v12-1996,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-5-4-v12-1997,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-5-4-v12-1998,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-5-4-v12-1999,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-5-4-v12-2000,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-5-4-v12-2001,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-4-8-v8-2006,0.0,0.0,367.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-4-8-v8-2007,0.0,0.0,367.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-4-8-v8-2008,0.0,0.0,367.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-4-4-v8-2010,0.0,0.0,408.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-4-4-v8-2011,0.0,0.0,408.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-l-activehybrid-7-4-4-v8-2011,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-4-4-v8-2012,0.0,0.0,408.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-l-activehybrid-7-4-4-v8-2012,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-m-sport-4-4-v8-2014,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-4-4-v8-2015,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-l-4-4-v8-2016,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-l-4-4-v8-2017,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-l-4-4-v8-2018,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-l-pure-excellence-4-4-v8-2018,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-l-4-4-v8-2019,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,750i,750i-l-pure-excellence-4-4-v8-2019,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,760i,760i-6-0-v12-2003,0.0,0.0,445.0,5.0,Auto,Indefinido,Urbano
+bmw,760i,760i-l-6-0-v12-2006,0.0,0.0,445.0,5.0,Auto,Indefinido,Urbano
+bmw,760i,760i-l-6-0-v12-2007,0.0,0.0,445.0,5.0,Auto,Indefinido,Urbano
+bmw,760i,760i-l-6-0-v12-2008,0.0,0.0,445.0,5.0,Auto,Indefinido,Urbano
+bmw,760i,760i-l-6-0-v12-2010,0.0,0.0,544.0,5.0,Auto,Indefinido,Urbano
+bmw,760i,760i-l-6-0-v12-2011,0.0,0.0,544.0,5.0,Auto,Indefinido,Urbano
+bmw,760i,760i-l-6-0-v12-2012,0.0,0.0,544.0,5.0,Auto,Indefinido,Urbano
+bmw,760i,760i-l-6-6-v12-2020,0.0,0.0,585.0,5.0,Auto,Indefinido,Urbano
+bmw,760i,760i-l-6-6-v12-2021,0.0,0.0,585.0,5.0,Auto,Indefinido,Urbano
+bmw,760i,760i-l-6-6-v12-2022,0.0,0.0,585.0,5.0,Auto,Indefinido,Urbano
+bmw,840ci,840ci-4-0-v8-1993,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,840ci,840ci-4-4-v8-1995,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,840ci,840ci-4-4-v8-1997,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,850ci,850ci-5-0-v12-1992,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+bmw,850ci,850ci-5-0-v12-1994,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+bmw,850ci,850ci-5-4-v12-1996,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+bmw,850ci,850ci-5-4-v12-1998,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+bmw,850csi,850csi-5-6-v12-1993,0.0,0.0,380.0,5.0,Manual,Indefinido,Urbano
+bmw,850csi,850csi-5-6-v12-1995,0.0,0.0,380.0,5.0,Manual,Indefinido,Urbano
+bmw,850i,850i-5-0-v12-1991,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+bmw,850i,850i-5-0-v12-1991-gasolina,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+bmw,850i,850i-5-0-v12-1992,0.0,0.0,300.0,5.0,Auto,Indefinido,Urbano
+bmw,850i,850i-m-xdrive-4-4-v8-2019,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+bmw,850i,850i-m-xdrive-4-4-v8-2020,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-2015,0.0,0.0,34.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-full-2015,0.0,0.0,34.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-2018,0.0,0.0,38.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-connected-2018,0.0,0.0,38.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-full-2018,0.0,0.0,38.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-2019,0.0,0.0,38.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-connected-2019,0.0,0.0,38.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-full-2019,0.0,0.0,38.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-bev-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-bev-connected-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-bev-full-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-2020,0.0,0.0,38.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-connected-2020,0.0,0.0,38.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-full-2020,0.0,0.0,38.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-bev-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-bev-connected-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-bev-full-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-rex-full-2021,0.0,0.0,38.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-bev-full-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I3,i3-unique-forever-bev-full-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I4,i4-edrive35-m-sport-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I4,i4-edrive40-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I4,i4-m50-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I4,i4-edrive35-m-sport-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I4,i4-edrive40-m-sport-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I4,i4-m50-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I4,i4-edrive40-m-sport-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I4,i4-m50-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I5,i5-m60-xdrive-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I5,i5-m60-xdrive-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I7,i7-xdrive60-m-sport-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I7,i7-xdrive60-m-sport-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,I8,i8-1-5-turbo-2015,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,I8,i8-1-5-turbo-2016,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,I8,i8-roadster-1-5-turbo-2019,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,I8,i8-1-5-turbo-2020,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,I8,i8-roadster-1-5-turbo-2020,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix,ix-xdrive40-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix,ix-xdrive50-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix,ix-m60-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix,ix-xdrive40-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix,ix-xdrive50-sport-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix,ix-m60-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix,ix-xdrive40-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix,ix-xdrive50-sport-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix,ix-xdrive40-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix,ix-xdrive50-sport-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix1,ix1-edrive20-x-line-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix1,ix1-xdrive30-m-sport-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix1,ix1-edrive20-x-line-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix1,ix1-xdrive30-m-sport-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix1,ix1-edrive20-x-line-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix1,ix1-xdrive30-m-sport-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix2,ix2-xdrive30-m-sport-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix2,ix2-xdrive30-m-sport-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix3,ix3-m-sport-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix3,ix3-m-sport-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix3,ix3-m-sport-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Ix3,ix3-m-sport-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,M1,m1-coupe-3-0-2011,0.0,0.0,340.0,5.0,Manual,Indefinido,Urbano
+bmw,M1,m1-coupe-3-0-2012,0.0,0.0,340.0,5.0,Manual,Indefinido,Urbano
+bmw,M2,m2-3-0-turbo-2016,0.0,0.0,370.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-3-0-turbo-2017,0.0,0.0,370.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-3-0-turbo-2018,0.0,0.0,370.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-competition-3-0-turbo-2019,0.0,0.0,410.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-competition-3-0-turbo-2020,0.0,0.0,410.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-competition-3-0-2021,0.0,0.0,410.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-competition-3-0-mt-2021,0.0,0.0,410.0,5.0,Manual,Indefinido,Urbano
+bmw,M2,m2-competition-3-0-turbo-mt-2021,0.0,0.0,410.0,5.0,Manual,Indefinido,Urbano
+bmw,M2,m2-cs-3-0-turbo-mt-2021,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+bmw,M2,m2-3-0-2024,0.0,0.0,460.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-track-3-0-2024,0.0,0.0,460.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-3-0-2025,0.0,0.0,480.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-track-3-0-2025,0.0,0.0,480.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-3-0-2026,0.0,0.0,480.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-cs-3-0-2026,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M2,m2-track-3-0-2026,0.0,0.0,480.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-3-0-1994,0.0,0.0,286.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-0-1995,0.0,0.0,286.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-2-1996,0.0,0.0,320.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-2-1997,0.0,0.0,320.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-2-1998,0.0,0.0,320.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-2-1999,0.0,0.0,320.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-2-2001,0.0,0.0,343.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-2-2002,0.0,0.0,343.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-2-2003,0.0,0.0,343.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-2-2004,0.0,0.0,343.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-csl-3-2-2004,0.0,0.0,360.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-2-2005,0.0,0.0,343.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2008,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2008-gasolina,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2009-gasolina,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2009,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2010-gasolina,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2010,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2011,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2011-gasolina,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2012-gasolina,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2012,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-4-0-v8-2013,0.0,0.0,420.0,5.0,Manual,Indefinido,Urbano
+bmw,M3,m3-3-0-turbo-2015,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-3-0-turbo-2016,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-3-0-turbo-2017,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-3-0-turbo-2018,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-cs-3-0-turbo-2018,0.0,0.0,460.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-3-0-turbo-2021,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-track-3-0-turbo-2021,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-3-0-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-3-0-2023,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-50-years-3-0-2023,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-3-0-2024,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-track-3-0-2024,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-cs-3-0-2024,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-3-0-2025,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-track-3-0-2025,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-3-0-2026,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M3,m3-competition-track-3-0-2026,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,M3 Cabriolet,m3-cabriolet-3-0-1994,0.0,0.0,286.0,5.0,Manual,Indefinido,Urbano
+bmw,M3 Cabriolet,m3-cabriolet-3-0-1995,0.0,0.0,286.0,5.0,Manual,Indefinido,Urbano
+bmw,M3 Cabriolet,m3-cabriolet-4-0-v8-2009,0.0,0.0,420.0,5.0,Auto,Indefinido,Urbano
+bmw,M3 Cabriolet,m3-cabriolet-4-0-v8-2010,0.0,0.0,420.0,5.0,Auto,Indefinido,Urbano
+bmw,M4,m4-3-0-turbo-2015,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M4,m4-3-0-turbo-2016,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M4,m4-3-0-2017,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M4,m4-cs-3-0-turbo-2018,0.0,0.0,460.0,5.0,Auto,Indefinido,Urbano
+bmw,M4,m4-3-0-turbo-2019,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M4,m4-cs-3-0-2019,0.0,0.0,460.0,5.0,Auto,Indefinido,Urbano
+bmw,M4,m4-3-0-turbo-2020,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M4,m4-cs-3-0-2024,0.0,0.0,550.0,5.0,Auto,Indefinido,Urbano
+bmw,M4 Cabriolet,m4-cabriolet-3-0-turbo-2015,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M4 Cabriolet,m4-cabriolet-3-0-turbo-2016,0.0,0.0,431.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-3-6-1991,0.0,0.0,315.0,5.0,Manual,Indefinido,Urbano
+bmw,M5,m5-3-8-1993,0.0,0.0,340.0,5.0,Manual,Indefinido,Urbano
+bmw,M5,m5-3-8-1995,0.0,0.0,340.0,5.0,Manual,Indefinido,Urbano
+bmw,M5,m5-5-0-v8-1999,0.0,0.0,400.0,5.0,Manual,Indefinido,Urbano
+bmw,M5,m5-5-0-v8-2000,0.0,0.0,400.0,5.0,Manual,Indefinido,Urbano
+bmw,M5,m5-5-0-v8-2001,0.0,0.0,400.0,5.0,Manual,Indefinido,Urbano
+bmw,M5,m5-5-0-v8-2002,0.0,0.0,400.0,5.0,Manual,Indefinido,Urbano
+bmw,M5,m5-5-0-v8-2003,0.0,0.0,400.0,5.0,Manual,Indefinido,Urbano
+bmw,M5,m5-5-0-v10-2006,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-5-0-v10-2007,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-5-0-v10-2008,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-5-0-v10-2009,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-5-0-v10-2010,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-4-4-v8-turbo-2012,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-4-4-v8-turbo-2013,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-4-4-v8-turbo-2014,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-4-4-v8-turbo-2015,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-4-4-v8-turbo-2019,0.0,0.0,600.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-performance-pack-4-4-v8-turbo-2019,0.0,0.0,600.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-4-4-v8-turbo-2020,0.0,0.0,600.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-performance-pack-4-4-v8-turbo-2020,0.0,0.0,600.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-competition-4-4-v8-2021,0.0,0.0,625.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-4-4-v8-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,M5,m5-competition-4-4-v8-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,M6,m6-gran-coupe-4-4-v8-biturbo-2014,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M6,m6-gran-coupe-4-4-v8-biturbo-2015,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M6,m6-gran-coupe-4-4-v8-biturbo-2016,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M6,m6-gran-coupe-4-4-v8-biturbo-2017,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M6,m6-gran-coupe-4-4-v8-biturbo-2018,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M6 Coupe,m6-coupe-5-0-v10-2006,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
+bmw,M6 Coupe,m6-coupe-5-0-v10-2007,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
+bmw,M6 Coupe,m6-coupe-5-0-v10-2008,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
+bmw,M6 Coupe,m6-coupe-5-0-v10-2009,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
+bmw,M6 Coupe,m6-coupe-5-0-v10-2010,0.0,0.0,507.0,5.0,Auto,Indefinido,Urbano
+bmw,M6 Coupe,m6-coupe-4-4-v8-biturbo-2013,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M6 Coupe,m6-coupe-4-4-v8-biturbo-2014,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M6 Coupe,m6-coupe-4-4-v8-biturbo-2015,0.0,0.0,560.0,5.0,Auto,Indefinido,Urbano
+bmw,M8,m8-gran-coupe-competition-4-4-v8-2021,0.0,0.0,625.0,5.0,Auto,Indefinido,Urbano
+bmw,M8,m8-gran-coupe-competition-4-4-v8-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive28i-3-0-2010,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive18i-2-0-2011,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive28i-3-0-2011,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive18i-2-0-2012,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive28i-2-0-turbo-2012,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive28i-3-0-2012,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive18i-2-0-2013,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-2-0-turbo-2013,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive28i-2-0-turbo-2013,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive18i-2-0-2014,0.0,0.0,150.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-2-0-turbo-2014,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive28i-2-0-turbo-2014,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-2-0-turbo-2015,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-turbo-2015,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive28i-2-0-turbo-2015,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-2-0-turbo-2016,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive25i-2-0-turbo-2016,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-2-0-turbo-2017,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-2017,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-2017-flex,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive25i-2-0-turbo-2017,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-2-0-turbo-2018,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-turbo-2018,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive25i-2-0-turbo-2018,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-2-0-turbo-2019,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-turbo-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive25i-2-0-turbo-2019,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-2-0-turbo-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-turbo-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive25i-2-0-turbo-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-2-0-turbo-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-m-sport-25-anos-2-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-turbo-2021,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive25i-2-0-turbo-2021,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-gp-plus-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-m-sport-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-m-sport-plus-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-outdoor-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-plus-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-xdrive25i-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive18i-1-5-2023,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-m-sport-2-0-2023,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-2023,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive18i-1-5-2024,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-m-sport-2-0-2024,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-2024,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive18i-1-5-2025,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-gp-2-0-2025,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-m-sport-2-0-2025,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-2025,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-gp-2-0-2026,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-m-sport-2-0-2026,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X1,x1-sdrive20i-x-line-2-0-2026,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive20i-m-sport-x-2-0-turbo-2018,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive18i-1-5-turbo-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive20i-2-0-2019,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive20i-2-0-turbo-2019,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive20i-m-sport-x-2-0-2019,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive20i-m-sport-x-2-0-turbo-2019,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive18i-1-5-turbo-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive20i-2-0-turbo-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive20i-m-sport-x-2-0-turbo-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-xdrive-m35i-2-0-2020,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-xdrive-m35i-2-0-turbo-2020,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive18i-1-5-turbo-2021,0.0,0.0,136.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive20i-2-0-turbo-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive18i-1-5-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-sdrive20i-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-xdrive20i-m-sport-2-0-2024,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-m35i-2-0-2025,0.0,0.0,317.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-xdrive20i-m-sport-2-0-2025,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-m35i-2-0-2026,0.0,0.0,317.0,5.0,Auto,Indefinido,Urbano
+bmw,X2,x2-xdrive20i-m-sport-2-0-2026,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-2-5-2004,0.0,0.0,192.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-3-0-2004,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-3-0-2005,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-3-0-2006,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-2-5-2007,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-3-0-2007,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-2-5-2008,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-3-0-2008,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-2-5-2009,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-3-0-2009,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-2-5-2010,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive28i-3-0-2011,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive35i-3-0-2011,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-2-0-2012,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive28i-3-0-2012,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive35i-3-0-2012,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-2-0-2013,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive28i-2-0-2013,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive35i-3-0-2013,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-2-0-2014,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive28i-2-0-2014,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive35i-3-0-2014,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-2-0-2015,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-x-line-2-0-2015,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive35i-3-0-2015,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-2-0-2016,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-x-line-2-0-2016,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive35i-3-0-2016,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-2-0-2017,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-x-line-2-0-2017,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive35i-3-0-2017,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m40i-3-0-2018,0.0,0.0,360.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30i-x-line-2-0-2018,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m40i-3-0-2019,0.0,0.0,360.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-x-line-2-0-2019-gasolina,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-x-line-2-0-2019,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30i-x-line-2-0-2019,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m-competition-3-0-2020,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m40i-3-0-2020,0.0,0.0,360.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-x-line-2-0-2020,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30i-x-line-2-0-2020,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m-competition-3-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m40i-3-0-2021,0.0,0.0,360.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive20i-x-line-2-0-2021,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30e-2-0-2021,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30e-x-line-2-0-2021,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30i-x-line-2-0-2021,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m40i-3-0-2022,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m40i-m-sport-edition-3-0-2022,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30e-m-sport-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30e-m-sport-launch-edition-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30e-x-line-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m40i-3-0-2023,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30e-x-line-2-0-2023,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m40i-3-0-2024,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30e-m-sport-2-0-2024,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-xdrive30e-x-line-2-0-2024,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m50i-3-0-2025,0.0,0.0,381.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-30-xdrive-m-sport-2-0-2026,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,X3,x3-m50i-3-0-2026,0.0,0.0,381.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive28i-2-0-2015,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive35i-3-0-2015,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive28i-2-0-2016,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive35i-3-0-2016,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive28i-2-0-2017,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive35i-3-0-2017,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive28i-2-0-2018,0.0,0.0,245.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m40i-3-0-2019,0.0,0.0,360.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive30i-2-0-2019,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m-competition-3-0-2020,0.0,0.0,510.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m40i-3-0-2020,0.0,0.0,360.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive30i-2-0-2020,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m-competition-3-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m40i-3-0-2021,0.0,0.0,360.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive30i-2-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m40i-3-0-2022,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m40i-individual-edition-3-0-2022,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m40i-m-sport-edition-3-0-2022,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive30i-m-sport-2-0-2022,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m40i-3-0-2023,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive30i-m-sport-2-0-2023,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m40i-3-0-2024,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive30i-m-sport-2-0-2024,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-m40i-3-0-2025,0.0,0.0,387.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive20i-m-sport-2-0-2025,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,X4,x4-xdrive30i-m-sport-2-0-2025,0.0,0.0,252.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-3-0-2001,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-sport-4-4-v8-2001,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-3-0-2002,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-sport-4-4-v8-2002,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-3-0-2003,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-sport-4-4-v8-2003,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-3-0-2004,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-sport-4-4-v8-2004,0.0,0.0,320.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-3-0-2005,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-sport-4-4-v8-2005,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-3-0-2006,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-sport-4-4-v8-2006,0.0,0.0,320.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-4-8-v8-2007,0.0,0.0,360.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-sport-4-8-v8-2007,0.0,0.0,355.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-3-0-2008,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-sport-4-8-v8-2009,0.0,0.0,355.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-3-0-2010,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m-4-4-v8-2010,0.0,0.0,555.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m-4-4-v8-2011,0.0,0.0,555.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive35i-3-0-2011,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50i-4-4-v8-2011,0.0,0.0,408.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m-4-4-v8-2012,0.0,0.0,555.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive35i-3-0-2012,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50i-4-4-v8-2012,0.0,0.0,408.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive35i-3-0-2013,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50i-4-4-v8-2014,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50i-m-sport-4-4-v8-2014,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m50d-3-0-2015,0.0,0.0,381.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive30d-3-0-2015,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive35i-3-0-2015-gasolina,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive35i-3-0-2015,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50i-4-4-v8-2015,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50i-m-sport-4-4-v8-2015,0.0,0.0,450.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m50d-3-0-2016,0.0,0.0,381.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive30d-3-0-2016,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive35i-3-0-2016,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m50d-3-0-2017,0.0,0.0,381.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive30d-3-0-2017,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive35i-3-0-2017,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m-4-4-v8-2018-gasolina,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m-4-4-v8-2018,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m50d-3-0-2018,0.0,0.0,381.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive30d-3-0-2018,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m50d-3-0-2019,0.0,0.0,400.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive30d-3-0-2019,0.0,0.0,265.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive30d-m-sport-3-0-2019,0.0,0.0,265.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive30d-m-sport-xoffroad-3-0-2019,0.0,0.0,265.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m50d-3-0-2020,0.0,0.0,400.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive30d-3-0-2020,0.0,0.0,265.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive30d-m-sport-3-0-2020,0.0,0.0,265.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive45e-m-sport-3-0-2020,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m-competition-4-4-v8-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m50i-4-4-v8-2021,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive45e-m-sport-3-0-2021,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-m-competition-4-4-v8-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive45e-m-sport-3-0-2022,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive45e-m-sport-3-0-2023,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50e-m-sport-3-0-2024,0.0,0.0,313.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50e-x-line-3-0-2024,0.0,0.0,313.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50e-m-sport-3-0-2025,0.0,0.0,313.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50e-x-line-3-0-2025,0.0,0.0,313.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50e-m-sport-3-0-2026,0.0,0.0,313.0,5.0,Auto,Indefinido,Urbano
+bmw,X5,x5-xdrive50e-x-line-3-0-2026,0.0,0.0,313.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2008,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2009,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2010,0.0,0.0,555.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2010,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive50i-4-4-v8-2010,0.0,0.0,408.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2011,0.0,0.0,555.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2011,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive50i-4-4-v8-2011,0.0,0.0,408.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2012,0.0,0.0,555.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2012,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive50i-4-4-v8-2012,0.0,0.0,408.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2013,0.0,0.0,555.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2013,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive50i-4-4-v8-2013,0.0,0.0,408.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2014,0.0,0.0,555.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2014,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive50i-4-4-v8-2014,0.0,0.0,408.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive50i-4-4-v8-2015,0.0,0.0,449.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2016-gasolina,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2016,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2016,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2016-gasolina,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive50i-4-4-v8-2016,0.0,0.0,449.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2017,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2017,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2018,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2018,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2019,0.0,0.0,575.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive35i-3-0-2019,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive40i-m-sport-3-0-2020,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-4-4-v8-2021,0.0,0.0,600.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive40i-m-sport-3-0-2021,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-competition-4-4-v8-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive40i-black-vermilion-3-0-2022,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive40i-m-sport-3-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-competition-4-4-v8-2023,0.0,0.0,625.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-competition-50-years-4-4-v8-2023,0.0,0.0,625.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive40i-m-sport-3-0-2023,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-competition-4-4-v8-2024,0.0,0.0,625.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-competition-4-4-v8-2024-gasolina,0.0,0.0,625.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive40i-m-sport-3-0-2024,0.0,0.0,369.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive40i-m-sport-3-0-2024-gasolina,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-m-competition-4-4-v8-2025,0.0,0.0,625.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive40i-m-sport-3-0-2025,0.0,0.0,369.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive40i-m-sport-3-0-2026,0.0,0.0,369.0,5.0,Auto,Indefinido,Urbano
+bmw,X6,x6-xdrive40i-m-sport-dark-edition-3-0-2026,0.0,0.0,369.0,5.0,Auto,Indefinido,Urbano
+bmw,X7,x7-xdrive50i-4-4-v8-2019,0.0,0.0,462.0,5.0,Auto,Indefinido,Urbano
+bmw,X7,x7-m50i-4-4-v8-2020,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+bmw,X7,x7-xdrive50i-4-4-v8-2020,0.0,0.0,462.0,5.0,Auto,Indefinido,Urbano
+bmw,X7,x7-dark-shadow-m50i-4-4-v8-2021,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+bmw,X7,x7-m50i-4-4-v8-2021,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+bmw,X7,x7-m50i-4-4-v8-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,X7,x7-m60i-4-4-v8-2024,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+bmw,X7,x7-m60i-4-4-v8-2025,0.0,0.0,530.0,5.0,Auto,Indefinido,Urbano
+bmw,X7,x7-xdrive40i-m-sport-3-0-2026,0.0,0.0,381.0,5.0,Auto,Indefinido,Urbano
+bmw,Z3,z3-1-9-1996,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+bmw,Z3,z3-1-9-1997,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+bmw,Z3,z3-2-8-1997,0.0,0.0,193.0,5.0,Manual,Indefinido,Urbano
+bmw,Z3,z3-1-9-1998,0.0,0.0,140.0,5.0,Manual,Indefinido,Urbano
+bmw,Z3,z3-2-8-1998,0.0,0.0,193.0,5.0,Manual,Indefinido,Urbano
+bmw,Z3,z3-m-3-2-1998,0.0,0.0,321.0,5.0,Manual,Indefinido,Urbano
+bmw,Z3,z3-2-8-2000,0.0,0.0,193.0,5.0,Manual,Indefinido,Urbano
+bmw,Z3,z3-3-0-2001,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-3-0-2003,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-3-0-2005,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-2-0-2007,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+bmw,Z4,z4-3-0-2007,0.0,0.0,265.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-m-3-2-2007,0.0,0.0,343.0,5.0,Manual,Indefinido,Urbano
+bmw,Z4,z4-m-coupe-3-2-2007,0.0,0.0,343.0,5.0,Manual,Indefinido,Urbano
+bmw,Z4,z4-m-coupe-3-2-2008,0.0,0.0,343.0,5.0,Manual,Indefinido,Urbano
+bmw,Z4,z4-2-0-2009,0.0,0.0,150.0,5.0,Manual,Indefinido,Urbano
+bmw,Z4,z4-sdrive-23i-2-5-2010,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-35i-3-0-turbo-2010,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-23i-2-5-2011,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-35i-3-0-turbo-2011,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-23i-2-5-2012,0.0,0.0,204.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-35i-3-0-turbo-2012,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-20i-2-0-2013,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-35i-3-0-turbo-2013,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-20i-2-0-2014,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-35i-3-0-turbo-2014,0.0,0.0,306.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-20i-2-0-2015,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-20i-2-0-2016,0.0,0.0,184.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-30i-2-0-2019,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-m40i-3-0-2020,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-m40i-3-0-2020-gasolina,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-30i-2-0-2020,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-m40i-3-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-30i-2-0-2021,0.0,0.0,258.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-m40i-3-0-2022,0.0,0.0,340.0,5.0,Auto,Indefinido,Urbano
+bmw,Z4,z4-sdrive-30i-2-0-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano

@@ -1,0 +1,352 @@
+﻿marca,modelo,versao,preco_orcamento,ano,potencia_cv,lugares_grupo,cambio,categoria,ambiente_ideal
+jeep,Avenger,avenger-limited-1-0-2026,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
+jeep,Avenger,avenger-longitude-1-0-2026,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
+jeep,Avenger,avenger-sport-1-0-2026,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-4-0-1995,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-4-0-1997,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-4-0-1998,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-4-0-1999,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-2-5-turbo-2000,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-4-0-2000,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-2-5-turbo-2001,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-4-0-2001,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-3-7-v6-2002,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-3-7-v6-2003,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-3-7-v6-2004,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-3-7-v6-2005,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-3-7-v6-2006,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-3-7-v6-2007,0.0,0.0,211.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-3-7-v6-2008,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-3-7-v6-2009,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-limited-3-7-v6-2010,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-3-7-v6-2010,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-limited-3-7-v6-2011,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-limited-3-7-v6-2012,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-sport-3-7-v6-2012,0.0,0.0,205.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-limited-3-2-v6-2014,0.0,0.0,271.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-limited-3-2-v6-2015,0.0,0.0,271.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-longitude-3-2-v6-2015,0.0,0.0,271.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-trailhawk-3-2-v6-2015,0.0,0.0,271.0,5.0,Auto,Indefinido,Urbano
+jeep,Cherokee,cherokee-trailhawk-3-2-v6-2015-gasolina,0.0,0.0,71.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-limited-5-7-v8-2006,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-limited-1-3-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-limited-2-0-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-1-3-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-2-0-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-limited-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-limited-2-0-2023,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-longitude-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-2-0-2023,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-limited-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-limited-2-0-2024,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-longitude-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-2-0-2024,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-blackhawk-2-0-2025,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-limited-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-longitude-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-longitude-1-3-5-lugares-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-2-0-2025,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-2-0-turbodiesel-2025,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-2-2-turbodiesel-2025,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-blackhawk-2-0-2026,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-limited-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-longitude-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Commander,commander-overland-2-2-turbodiesel-2026,0.0,0.0,200.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-2-0-2012,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-2-0-2013,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-2-0-2014,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-2-0-2015,0.0,0.0,156.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-2017,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-2017-flex,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-2017,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-turbo-2017,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-turbodiesel-2017,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-opening-edition-2-0-2017,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-2-0-2017,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-trailhawk-2-0-turbo-2017,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-trailhawk-2-0-turbodiesel-2017,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-2018,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-turbo-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-2018,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-turbo-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-night-eagle-2-0-2018,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-night-eagle-2-0-turbo-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-2-0-2018,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-2-0-4x4-2018,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-trailhawk-2-0-turbo-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-2019,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-turbo-2019,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-2019,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-turbo-2019,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-2-0-turbo-2019,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-2-0-2019,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-trailhawk-2-0-turbo-2019,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-turbo-2020,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-turbo-2020,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-2-0-turbo-2020,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-2-0-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-trailhawk-2-0-turbo-2020,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-2021,0.0,0.0,166.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-turbo-2021,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-turbo-2021,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-2-0-turbo-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-2-0-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-trailhawk-2-0-turbo-2021,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-80-anos-1-3-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-80-anos-2-0-turbo-2022,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-1-3-turbo-2022,0.0,0.0,185.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-turbo-2022,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-1-3-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-turbo-2022,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-1-3-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-4xe-1-3-2022,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-1-3-turbo-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-trailhawk-2-0-turbo-2022,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-dark-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-dark-2-0-turbo-2023,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-turbo-2023,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-turbo-2023,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-4xe-1-3-2023,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-trailhawk-2-0-turbo-2023,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-dark-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-dark-2-0-turbo-2024,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-turbo-2024,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-2-0-turbodiesel-2024,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-4xe-1-3-2024,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-trailhawk-2-0-turbo-2024,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-blackhawk-2-0-2025,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-limited-2-0-turbodiesel-2025,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-night-eagle-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-overland-2-0-2025,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-blackhawk-2-0-2026,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-longitude-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-night-eagle-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-s-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Compass,compass-sport-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Gladiator,gladiator-rubicon-3-6-v6-2022,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Gladiator,gladiator-rubicon-3-6-v6-2023,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Gladiator,gladiator-rubicon-3-6-v6-2025,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-4-0-1993,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-5-2-v8-1993,0.0,0.0,212.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-4-0-1994,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-5-2-v8-1994,0.0,0.0,212.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-4-0-1995,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-5-2-v8-1995,0.0,0.0,212.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-4-0-1996,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-5-2-v8-1996,0.0,0.0,212.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-4-0-1997,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-5-2-v8-1997,0.0,0.0,212.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-lx-5-9-v8-1997,0.0,0.0,241.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-4-0-1998,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-5-2-v8-1998,0.0,0.0,212.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-lx-5-9-v8-1998,0.0,0.0,241.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-4-0-1999,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-4-7-v8-1999,0.0,0.0,220.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-3-1-turbodiesel-2000,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-4-0-2000,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-4-7-v8-2000,0.0,0.0,220.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-3-1-turbodiesel-2001,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-4-0-2001,0.0,0.0,190.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-2-7-turbodiesel-2002,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-4-7-v8-2002,0.0,0.0,220.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-2-7-turbodiesel-2003,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-4-7-v8-2003,0.0,0.0,220.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-2-7-turbodiesel-2004,0.0,0.0,163.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-4-7-v8-2004,0.0,0.0,220.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-4-7-v8-2005,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-4-7-v8-2006,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-5-7-v8-2006,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-overland-5-7-v8-2006,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-srt8-6-1-v8-2006,0.0,0.0,432.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-4-7-v8-2007,0.0,0.0,231.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-overland-5-7-v8-2007,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-4-7-v8-2008,0.0,0.0,303.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-overland-5-7-v8-2008,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-srt8-6-1-v8-2008,0.0,0.0,432.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-0-v6-turbodiesel-2009,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-4-7-v8-2009,0.0,0.0,303.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-overland-5-7-v8-2009,0.0,0.0,326.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-0-v6-turbodiesel-2010,0.0,0.0,218.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-3-6-v6-2011,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-6-v6-2011,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-3-6-v6-2012,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-6-v6-2012,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-0-v6-turbodiesel-2013,0.0,0.0,241.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-3-6-v6-2014,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-0-v6-turbodiesel-2014,0.0,0.0,241.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-6-v6-2014,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-laredo-3-6-v6-2015,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-0-v6-turbodiesel-2015,0.0,0.0,241.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-6-v6-2015,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-75-anos-3-6-v6-2016,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-6-v6-2016,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-6-v6-2017,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-0-v6-turbodiesel-2018,0.0,0.0,241.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-6-v6-2018,0.0,0.0,286.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-0-v6-turbodiesel-2020,0.0,0.0,241.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-80-anos-3-0-v6-turbodiesel-2021,0.0,0.0,241.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-limited-3-0-v6-turbodiesel-2021,0.0,0.0,241.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-4xe-2-0-2024,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Grand Cherokee,grand-cherokee-4xe-2-0-2024-eletricidade-gasolina,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-8-at-2015,0.0,0.0,132.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-2015,0.0,0.0,132.0,5.0,Manual,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-2-0-turbo-2015,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-1-8-2016,0.0,0.0,132.0,5.0,Manual,Indefinido,Urbano
+jeep,Renegade,renegade-1-8-at-pcd-2016,0.0,0.0,132.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-75-anos-1-8-at-2016,0.0,0.0,132.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-75-anos-2-0-turbo-2016,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-limited-edition-1-8-at-2016,0.0,0.0,132.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-8-at-2016,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-2-0-turbo-2016,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-2016,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-at-2016,0.0,0.0,132.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-2-0-turbo-2016,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-2-0-turbo-2016,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-1-8-2017,0.0,0.0,139.0,5.0,Manual,Indefinido,Urbano
+jeep,Renegade,renegade-1-8-at-pcd-2017,0.0,0.0,132.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-75-anos-1-8-at-2017,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-75-anos-2-0-turbo-2017,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-limited-1-8-at-2017,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-limited-edition-1-8-at-2017,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-8-at-2017,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-2-0-turbo-2017,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-2017,0.0,0.0,139.0,5.0,Manual,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-at-2017,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-2-0-turbo-2017,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-2-0-turbo-2017,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-1-8-2018,0.0,0.0,0.0,5.0,Manual,Indefinido,Urbano
+jeep,Renegade,renegade-1-8-at-pcd-2018,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-custom-1-8-2018,0.0,0.0,139.0,5.0,Manual,Indefinido,Urbano
+jeep,Renegade,renegade-custom-2-0-turbo-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-limited-1-8-at-2018,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-limited-2-0-turbo-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-8-at-2018,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-2-0-turbo-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-night-eagle-1-8-at-2018,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-night-eagle-2-0-turbo-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-2018,0.0,0.0,139.0,5.0,Manual,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-at-2018,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-2-0-turbo-2018,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-1-8-at-pcd-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-limited-1-8-at-2019,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-8-at-2019,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-2-0-turbo-2019,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-night-eagle-1-8-at-2019,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-2019,0.0,0.0,139.0,5.0,Manual,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-at-2019,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-2-0-turbo-2019,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-willys-2-0-turbo-2019,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-1-8-at-pcd-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-limited-1-8-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-8-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-2-0-turbo-2020,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-night-eagle-1-8-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-std-1-8-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-2-0-turbo-2020,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-wsl-1-8-at-2020,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-1-8-at-pcd-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-80-anos-1-8-at-2021,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-80-anos-2-0-turbo-2021,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-limited-1-8-at-2021,0.0,0.0,139.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-8-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-2-0-turbo-2021,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-moab-2-0-turbo-2021,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-night-eagle-1-8-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-8-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-std-1-8-at-2021,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-2-0-turbo-2021,0.0,0.0,170.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-3-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-s-1-3-4x4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-3-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-1-3-4x4-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-s-1-3-4x4-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-3-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-1-3-4x4-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-dark-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-s-1-3-4x4-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-3-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-1-3-4x4-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-night-eagle-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sahara-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-altitude-1-3-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-trailhawk-1-3-4x4-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-willys-1-3-4x4-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-altitude-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-longitude-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sahara-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-sport-1-3-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-willys-1-3-4x4-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Renegade,renegade-willys-10-anos-1-3-4x4-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-4-0-1997,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-4-0-1998,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-4-0-1999,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-4-0-2000,0.0,0.0,177.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-4-0-2001,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-8-v6-2007,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-8-v6-2008,0.0,0.0,199.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-8-v6-2009,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-8-v6-2010,0.0,0.0,199.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-unlimited-sport-3-8-v6-2010,0.0,0.0,199.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-3-8-v6-2011,0.0,0.0,199.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-unlimited-3-8-v6-2011,0.0,0.0,199.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-8-v6-2011,0.0,0.0,199.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-unlimited-sport-3-8-v6-2011,0.0,0.0,199.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-6-v6-2012,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-unlimited-sport-3-6-v6-2012,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-6-v6-2013,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-unlimited-sport-3-6-v6-2013,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-6-v6-2014,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-unlimited-sport-3-6-v6-2014,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-6-v6-2015,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-unlimited-sport-3-6-v6-2015,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-6-v6-2016,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-unlimited-75-anos-3-6-v6-2016,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-unlimited-sport-3-6-v6-2016,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-6-v6-2017,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-unlimited-sport-3-6-v6-2017,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-2-0-turbo-2018,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sport-3-6-v6-2018,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-unlimited-sahara-3-6-v6-2018,0.0,0.0,284.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-2-0-turbo-2019,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-overland-2-0-turbo-2019,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-rubicon-2-0-turbo-2020,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-2-0-turbo-2020,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-overland-2-0-turbo-2020,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-80-anos-2-0-turbo-2021,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-rubicon-2-0-turbo-2021,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-2-0-turbo-2021,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-overland-2-0-turbo-2021,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-rubicon-2-0-turbo-2022,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-2-0-turbo-2022,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-unlimited-2-0-turbo-2022,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-rubicon-2-0-turbo-2023,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-2-0-turbo-2023,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-sahara-unlimited-2-0-turbo-2023,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-rubicon-2-0-turbo-2024,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano
+jeep,Wrangler,wrangler-rubicon-2-0-turbo-2025,0.0,0.0,272.0,5.0,Auto,Indefinido,Urbano

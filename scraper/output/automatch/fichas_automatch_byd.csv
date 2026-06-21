@@ -1,0 +1,50 @@
+﻿marca,modelo,versao,preco_orcamento,ano,potencia_cv,lugares_grupo,cambio,categoria,ambiente_ideal
+byd,D1,d1-ev-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,D1,d1-ev-2023-eletricidade,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin,dolphin-diamond-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin,dolphin-ev-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin,dolphin-plus-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin,dolphin-ev-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin,dolphin-plus-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin,dolphin-gs-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin,dolphin-plus-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin Mini,dolphin-mini-ev-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin Mini,dolphin-mini-ev-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin Mini,dolphin-mini-gs-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin Mini,dolphin-mini-gl-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Dolphin Mini,dolphin-mini-gs-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Et3,et3-bev-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Et3,et3-bev-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Han,han-ev-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Han,han-ev-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Han,han-ev-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Han,han-ev-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,King,king-gl-1-5-2025,0.0,0.0,110.0,5.0,Auto,Indefinido,Urbano
+byd,King,king-gs-1-5-2025,0.0,0.0,110.0,5.0,Auto,Indefinido,Urbano
+byd,King,king-gl-1-5-2026,0.0,0.0,110.0,5.0,Auto,Indefinido,Urbano
+byd,King,king-gs-1-5-2026,0.0,0.0,110.0,5.0,Auto,Indefinido,Urbano
+byd,Seal,seal-ev-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Seal,seal-ev-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Shark,shark-gs-1-5-2025,0.0,0.0,180.0,5.0,Auto,Indefinido,Urbano
+byd,Shark,shark-embaixador-1-5-phev-2026,0.0,0.0,183.0,5.0,Auto,Indefinido,Urbano
+byd,Shark,shark-gs-1-5-phev-2026,0.0,0.0,183.0,5.0,Auto,Indefinido,Urbano
+byd,Song Plus,song-plus-dm-i-2023,0.0,0.0,110.0,5.0,Auto,Indefinido,Urbano
+byd,Song Plus,song-plus-dm-i-1-5-2024,0.0,0.0,110.0,5.0,Auto,Indefinido,Urbano
+byd,Song Plus,song-plus-dm-i-1-5-2025,0.0,0.0,105.0,5.0,Auto,Indefinido,Urbano
+byd,Song Plus,song-plus-premium-1-5-awd-2025,0.0,0.0,129.0,5.0,Auto,Indefinido,Urbano
+byd,Song Plus,song-plus-premium-1-5-awd-2025-eletricidade-gasolina,0.0,0.0,129.0,5.0,Auto,Indefinido,Urbano
+byd,Song Plus,song-plus-gs-1-5-2026,0.0,0.0,98.0,5.0,Auto,Indefinido,Urbano
+byd,Song Plus,song-plus-premium-1-5-awd-2026,0.0,0.0,130.0,5.0,Auto,Indefinido,Urbano
+byd,Song Pro,song-pro-dm-i-1-5-2025,0.0,0.0,110.0,5.0,Auto,Indefinido,Urbano
+byd,Song Pro,song-pro-gs-1-5-2025,0.0,0.0,98.0,5.0,Auto,Indefinido,Urbano
+byd,Song Pro,song-pro-gl-1-5-2026,0.0,0.0,98.0,5.0,Auto,Indefinido,Urbano
+byd,Song Pro,song-pro-gs-1-5-2026,0.0,0.0,98.0,5.0,Auto,Indefinido,Urbano
+byd,Tan,tan-ev-2022,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Tan,tan-ev-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Tan,tan-ev-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Yuan Plus,yuan-plus-ev-2023,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Yuan Plus,yuan-plus-ev-2024,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Yuan Plus,yuan-plus-ev-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Yuan Plus,yuan-plus-gl-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Yuan Pro,yuan-pro-ev-2025,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
+byd,Yuan Pro,yuan-pro-gs-2026,0.0,0.0,0.0,5.0,Auto,Indefinido,Urbano
